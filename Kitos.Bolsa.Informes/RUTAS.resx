@@ -1,0 +1,588 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="ABE" xml:space="preserve">
+    <value>ABERTIS</value>
+  </data>
+  <data name="ABG" xml:space="preserve">
+    <value>ABENGOA</value>
+  </data>
+  <data name="ACS" xml:space="preserve">
+    <value>ACS</value>
+  </data>
+  <data name="ACX" xml:space="preserve">
+    <value>ACERINOX</value>
+  </data>
+  <data name="ABE_AHORRO" xml:space="preserve">
+    <value>http://www.ahorro.com/acnet/fichas/ficha_valor.acnet/IBEX%20%2035/ABERTIS/isin/ES0111845014/marketCode/09/submarketId/09.html</value>
+  </data>
+  <data name="ABG_AHORRO" xml:space="preserve">
+    <value>http://www.ahorro.com/acnet/fichas/ficha_valor.acnet/IBEX%20%2035/ABENGOA/isin/ES0105200416/marketCode/09/submarketId/09.html</value>
+  </data>
+  <data name="ACS_AHORRO" xml:space="preserve">
+    <value>http://www.ahorro.com/acnet/fichas/ficha_valor.acnet/IBEX%20%2035/ACS/isin/ES0167050915/marketCode/09/submarketId/09.html</value>
+  </data>
+  <data name="ACX_AHORRO" xml:space="preserve">
+    <value>http://www.ahorro.com/acnet/fichas/ficha_valor.acnet/IBEX%20%2035/ACERINOX/isin/ES0132105018/marketCode/09/submarketId/09.html</value>
+  </data>
+  <data name="AMS_AHORRO" xml:space="preserve">
+    <value>http://www.ahorro.com/acnet/fichas/ficha_valor.acnet/IBEX%20%2035/AMADEUS/isin/ES0109067019/marketCode/09/submarketId/09.html</value>
+  </data>
+  <data name="ANA_AHORRO" xml:space="preserve">
+    <value>http://www.ahorro.com/acnet/fichas/ficha_valor.acnet/IBEX%20%2035/ACCIONA/isin/ES0125220311/marketCode/09/submarketId/09.html</value>
+  </data>
+  <data name="BBVA_AHORRO" xml:space="preserve">
+    <value>http://www.ahorro.com/acnet/fichas/ficha_valor.acnet/IBEX%20%2035/BBVA/isin/ES0113211835/marketCode/09/submarketId/09.html</value>
+  </data>
+  <data name="BKT_AHORRO" xml:space="preserve">
+    <value>http://www.ahorro.com/acnet/fichas/ficha_valor.acnet/IBEX%20%2035/BANKINTER/isin/ES0113679I37/marketCode/09/submarketId/09.html</value>
+  </data>
+  <data name="BME_AHORRO" xml:space="preserve">
+    <value>http://www.ahorro.com/acnet/fichas/ficha_valor.acnet/IBEX%20%2035/BME/isin/ES0115056139/marketCode/09/submarketId/09.html</value>
+  </data>
+  <data name="CABK_AHORRO" xml:space="preserve">
+    <value>http://www.ahorro.com/acnet/fichas/ficha_valor.acnet/IBEX%20%2035/CRITERIA/isin/ES0140609019/marketCode/09/submarketId/09.html</value>
+  </data>
+  <data name="DIA_AHORRO" xml:space="preserve">
+    <value>http://www.ahorro.com/acnet/fichas/ficha_valor.acnet/IBEX%20%2035/DIA/isin/ES0126775032/marketCode/09/submarketId/09.html</value>
+  </data>
+  <data name="EBRO_AHORRO" xml:space="preserve">
+    <value>http://www.ahorro.com/acnet/fichas/ficha_valor.acnet/IBEX%20%2035/EBRO%20FOODS/isin/ES0112501012/marketCode/09/submarketId/09.html</value>
+  </data>
+  <data name="ELE_AHORRO" xml:space="preserve">
+    <value>http://www.ahorro.com/acnet/fichas/ficha_valor.acnet/IBEX%20%2035/ENDESA/isin/ES0130670112/marketCode/09/submarketId/09.html</value>
+  </data>
+  <data name="ENG_AHORRO" xml:space="preserve">
+    <value>http://www.ahorro.com/acnet/fichas/ficha_valor.acnet/IBEX%20%2035/ENAGAS/isin/ES0130960018/marketCode/09/submarketId/09.html</value>
+  </data>
+  <data name="FCC_AHORRO" xml:space="preserve">
+    <value>http://www.ahorro.com/acnet/fichas/ficha_valor.acnet/IBEX%20%2035/FCC/isin/ES0122060314/marketCode/09/submarketId/09.html</value>
+  </data>
+  <data name="FER_AHORRO" xml:space="preserve">
+    <value>http://www.ahorro.com/acnet/fichas/ficha_valor.acnet/IBEX%20%2035/FERROVIAL/isin/ES0118900010/marketCode/09/submarketId/09.html</value>
+  </data>
+  <data name="GAM_AHORRO" xml:space="preserve">
+    <value>http://www.ahorro.com/acnet/fichas/ficha_valor.acnet/IBEX%20%2035/GAMESA/isin/ES0143416115/marketCode/09/submarketId/09.html</value>
+  </data>
+  <data name="GAS_AHORRO" xml:space="preserve">
+    <value>http://www.ahorro.com/acnet/fichas/ficha_valor.acnet/IBEX%20%2035/GAS%20NATURAL/isin/ES0116870314/marketCode/09/submarketId/09.html</value>
+  </data>
+  <data name="GRF_AHORRO" xml:space="preserve">
+    <value>http://www.ahorro.com/acnet/fichas/ficha_valor.acnet/IBEX%20%2035/GRIFOLS/isin/ES0171996012/marketCode/09/submarketId/09.html</value>
+  </data>
+  <data name="IAG_AHORRO" xml:space="preserve">
+    <value>http://www.ahorro.com/acnet/fichas/ficha_valor.acnet/IBEX%20%2035/IAG/isin/ES0177542018/marketCode/09/submarketId/09.html</value>
+  </data>
+  <data name="IBE_AHORRO" xml:space="preserve">
+    <value>http://www.ahorro.com/acnet/fichas/ficha_valor.acnet/IBEX%20%2035/IBERDROLA/isin/ES0144580Y14/marketCode/09/submarketId/09.html</value>
+  </data>
+  <data name="IBR_AHORRO" xml:space="preserve">
+    <value>http://www.ahorro.com/acnet/fichas/ficha_valor.acnet/IBEX%20%2035/IBERDROLA%20RENOV/isin/ES0147645016/marketCode/09/submarketId/09.html</value>
+  </data>
+  <data name="IDR_AHORRO" xml:space="preserve">
+    <value>http://www.ahorro.com/acnet/fichas/ficha_valor.acnet/IBEX%20%2035/INDRA/isin/ES0118594417/marketCode/09/submarketId/09.html</value>
+  </data>
+  <data name="ITX_AHORRO" xml:space="preserve">
+    <value>http://www.ahorro.com/acnet/fichas/ficha_valor.acnet/IBEX%20%2035/INDITEX/isin/ES0148396015/marketCode/09/submarketId/09.html</value>
+  </data>
+  <data name="MAP_AHORRO" xml:space="preserve">
+    <value>http://www.ahorro.com/acnet/fichas/ficha_valor.acnet/IBEX%20%2035/MAPFRE/isin/ES0124244E34/marketCode/09/submarketId/09.html</value>
+  </data>
+  <data name="MTS_AHORRO" xml:space="preserve">
+    <value>http://www.ahorro.com/acnet/fichas/ficha_valor.acnet/IBEX%20%2035/ARCELOR%20MITTAL/isin/LU0323134006/marketCode/09/submarketId/09.html</value>
+  </data>
+  <data name="OHL_AHORRO" xml:space="preserve">
+    <value>http://www.ahorro.com/acnet/fichas/ficha_valor.acnet/IBEX%20%2035/OHL/isin/ES0142090317/marketCode/09/submarketId/09.html</value>
+  </data>
+  <data name="POP_AHORRO" xml:space="preserve">
+    <value>http://www.ahorro.com/acnet/fichas/ficha_valor.acnet/IBEX%20%2035/B.%20%20POPULAR/isin/ES0113790531/marketCode/09/submarketId/09.html</value>
+  </data>
+  <data name="REE_AHORRO" xml:space="preserve">
+    <value>http://www.ahorro.com/acnet/fichas/ficha_valor.acnet/IBEX%20%2035/REE/isin/ES0173093115/marketCode/09/submarketId/09.html</value>
+  </data>
+  <data name="REP_AHORRO" xml:space="preserve">
+    <value>http://www.ahorro.com/acnet/fichas/ficha_valor.acnet/IBEX%20%2035/REPSOL%20YPF/isin/ES0173516115/marketCode/09/submarketId/09.html</value>
+  </data>
+  <data name="SAB_AHORRO" xml:space="preserve">
+    <value>http://www.ahorro.com/acnet/fichas/ficha_valor.acnet/IBEX%20%2035/B.%20%20SABADELL/isin/ES0113860A34/marketCode/09/submarketId/09.html</value>
+  </data>
+  <data name="SAN_AHORRO" xml:space="preserve">
+    <value>http://www.ahorro.com/acnet/fichas/ficha_valor.acnet/IBEX%20%2035/SANTANDER/isin/ES0113900J37/marketCode/09/submarketId/09.html</value>
+  </data>
+  <data name="SCYR_AHORRO" xml:space="preserve">
+    <value>http://www.ahorro.com/acnet/fichas/ficha_valor.acnet/IBEX%20%2035/SACYR/isin/ES0182870214/marketCode/09/submarketId/09.html</value>
+  </data>
+  <data name="TEF_AHORRO" xml:space="preserve">
+    <value>http://www.ahorro.com/acnet/fichas/ficha_valor.acnet/IBEX%20%2035/TELEFONICA/isin/ES0178430E18/marketCode/09/submarketId/09.html</value>
+  </data>
+  <data name="TL5_AHORRO" xml:space="preserve">
+    <value>http://www.ahorro.com/acnet/fichas/ficha_valor.acnet/IBEX%20%2035/TELE%205/isin/ES0152503035/marketCode/09/submarketId/09.html</value>
+  </data>
+  <data name="TRE_AHORRO" xml:space="preserve">
+    <value>http://www.ahorro.com/acnet/fichas/ficha_valor.acnet/IBEX%20%2035/TECNICAS%20REUNIDAS/isin/ES0178165017/marketCode/09/submarketId/09.html</value>
+  </data>
+  <data name="VIS_AHORRO" xml:space="preserve">
+    <value>http://www.ahorro.com/acnet/fichas/ficha_valor.acnet/IBEX%20%2035/VISCOFAN/isin/ES0184262212/marketCode/09/submarketId/09.html</value>
+  </data>
+  <data name="AMS" xml:space="preserve">
+    <value>AMADEUS</value>
+  </data>
+  <data name="ANA" xml:space="preserve">
+    <value>ACCIONA</value>
+  </data>
+  <data name="BBVA" xml:space="preserve">
+    <value>BBVA</value>
+  </data>
+  <data name="BKT" xml:space="preserve">
+    <value>BANKINTER</value>
+  </data>
+  <data name="BME" xml:space="preserve">
+    <value>BME</value>
+  </data>
+  <data name="ABE_CINCO_DIAS" xml:space="preserve">
+    <value>http://www.cincodias.com/empresa/abertis/</value>
+  </data>
+  <data name="ABG_CINCO_DIAS" xml:space="preserve">
+    <value>http://www.cincodias.com/empresa/abengoa/</value>
+  </data>
+  <data name="ACS_CINCO_DIAS" xml:space="preserve">
+    <value>http://www.cincodias.com/empresa/acs/</value>
+  </data>
+  <data name="ACX_CINCO_DIAS" xml:space="preserve">
+    <value>http://www.cincodias.com/empresa/acerinox/</value>
+  </data>
+  <data name="AMS_CINCO_DIAS" xml:space="preserve">
+    <value>http://www.cincodias.com/empresa/amadeus/</value>
+  </data>
+  <data name="ANA_CINCO_DIAS" xml:space="preserve">
+    <value>http://www.cincodias.com/empresa/acciona/</value>
+  </data>
+  <data name="BBVA_CINCO_DIAS" xml:space="preserve">
+    <value>http://www.cincodias.com/empresa/bbva/</value>
+  </data>
+  <data name="BKT_CINCO_DIAS" xml:space="preserve">
+    <value>http://www.cincodias.com/empresa/bankinter/</value>
+  </data>
+  <data name="BME_CINCO_DIAS" xml:space="preserve">
+    <value>http://www.cincodias.com/empresa/bme/</value>
+  </data>
+  <data name="CABK_CINCO_DIAS" xml:space="preserve">
+    <value>http://www.cincodias.com/empresa/criteria/</value>
+  </data>
+  <data name="DIA_CINCO_DIAS" xml:space="preserve">
+    <value>http://cincodias.com/mercados/empresas/dia/56578/</value>
+  </data>
+  <data name="EBRO_CINCO_DIAS" xml:space="preserve">
+    <value>http://www.cincodias.com/empresa/ebro-foods/</value>
+  </data>
+  <data name="ELE_CINCO_DIAS" xml:space="preserve">
+    <value>http://www.cincodias.com/empresa/endesa/</value>
+  </data>
+  <data name="ENG_CINCO_DIAS" xml:space="preserve">
+    <value>http://www.cincodias.com/empresa/enagas/</value>
+  </data>
+  <data name="FCC_CINCO_DIAS" xml:space="preserve">
+    <value>http://www.cincodias.com/empresa/fcc/</value>
+  </data>
+  <data name="FER_CINCO_DIAS" xml:space="preserve">
+    <value>http://www.cincodias.com/empresa/ferrovial/</value>
+  </data>
+  <data name="GAM_CINCO_DIAS" xml:space="preserve">
+    <value>http://www.cincodias.com/empresa/gamesa/</value>
+  </data>
+  <data name="GAS_CINCO_DIAS" xml:space="preserve">
+    <value>http://www.cincodias.com/empresa/gas-natural/</value>
+  </data>
+  <data name="GRF_CINCO_DIAS" xml:space="preserve">
+    <value>http://www.cincodias.com/empresa/grifols/</value>
+  </data>
+  <data name="IAG_CINCO_DIAS" xml:space="preserve">
+    <value>http://cincodias.com/mercados/empresas/iag/56576/</value>
+  </data>
+  <data name="IBE_CINCO_DIAS" xml:space="preserve">
+    <value>http://www.cincodias.com/empresa/iberdrola/</value>
+  </data>
+  <data name="IBR_CINCO_DIAS" xml:space="preserve">
+    <value>http://www.cincodias.com/empresa/iberdrola-renovables/</value>
+  </data>
+  <data name="IDR_CINCO_DIAS" xml:space="preserve">
+    <value>http://www.cincodias.com/empresa/indra/</value>
+  </data>
+  <data name="ITX_CINCO_DIAS" xml:space="preserve">
+    <value>http://www.cincodias.com/empresa/inditex/</value>
+  </data>
+  <data name="MAP_CINCO_DIAS" xml:space="preserve">
+    <value>http://www.cincodias.com/empresa/mapfre/</value>
+  </data>
+  <data name="MTS_CINCO_DIAS" xml:space="preserve">
+    <value>http://www.cincodias.com/empresa/arcelor/</value>
+  </data>
+  <data name="OHL_CINCO_DIAS" xml:space="preserve">
+    <value>http://www.cincodias.com/empresa/ohl/</value>
+  </data>
+  <data name="POP_CINCO_DIAS" xml:space="preserve">
+    <value>http://www.cincodias.com/empresa/banco-popular/</value>
+  </data>
+  <data name="REE_CINCO_DIAS" xml:space="preserve">
+    <value>http://www.cincodias.com/empresa/ree/</value>
+  </data>
+  <data name="REP_CINCO_DIAS" xml:space="preserve">
+    <value>http://cincodias.com/mercados/empresas/repsol/476/</value>
+  </data>
+  <data name="SAB_CINCO_DIAS" xml:space="preserve">
+    <value>http://www.cincodias.com/empresa/sabadell/</value>
+  </data>
+  <data name="SAN_CINCO_DIAS" xml:space="preserve">
+    <value>http://www.cincodias.com/empresa/santander/</value>
+  </data>
+  <data name="SCYR_CINCO_DIAS" xml:space="preserve">
+    <value>http://cincodias.com/mercados/empresas/sacyr/54015/</value>
+  </data>
+  <data name="TEF_CINCO_DIAS" xml:space="preserve">
+    <value>http://www.cincodias.com/empresa/telefonica/</value>
+  </data>
+  <data name="TL5_CINCO_DIAS" xml:space="preserve">
+    <value>http://www.cincodias.com/empresa/telecinco/</value>
+  </data>
+  <data name="TRE_CINCO_DIAS" xml:space="preserve">
+    <value>http://www.cincodias.com/empresa/tecnicas-reunidas/</value>
+  </data>
+  <data name="VIS_CINCO_DIAS" xml:space="preserve">
+    <value>http://cincodias.com/mercados/empresas/viscofan/</value>
+  </data>
+  <data name="CABK" xml:space="preserve">
+    <value>CAIXABANK</value>
+  </data>
+  <data name="DIA" xml:space="preserve">
+    <value>DIA</value>
+  </data>
+  <data name="ELE" xml:space="preserve">
+    <value>ENDESA</value>
+  </data>
+  <data name="ENG" xml:space="preserve">
+    <value>ENAGAS</value>
+  </data>
+  <data name="FCC" xml:space="preserve">
+    <value>FCC</value>
+  </data>
+  <data name="FER" xml:space="preserve">
+    <value>FERROVIAL</value>
+  </data>
+  <data name="GAS" xml:space="preserve">
+    <value>GAS NATURAL</value>
+  </data>
+  <data name="GRF" xml:space="preserve">
+    <value>GRIFOLS</value>
+  </data>
+  <data name="IAG" xml:space="preserve">
+    <value>IAG</value>
+  </data>
+  <data name="IBE" xml:space="preserve">
+    <value>IBERDROLA</value>
+  </data>
+  <data name="IDR" xml:space="preserve">
+    <value>INDRA</value>
+  </data>
+  <data name="ITX" xml:space="preserve">
+    <value>INDITEX</value>
+  </data>
+  <data name="MAP" xml:space="preserve">
+    <value>MAPFRE</value>
+  </data>
+  <data name="MTS" xml:space="preserve">
+    <value>ARCELORMIT</value>
+  </data>
+  <data name="OHL" xml:space="preserve">
+    <value>OHL</value>
+  </data>
+  <data name="POP" xml:space="preserve">
+    <value>B. POPULAR</value>
+  </data>
+  <data name="REE" xml:space="preserve">
+    <value>REE</value>
+  </data>
+  <data name="REP" xml:space="preserve">
+    <value>REPSOL</value>
+  </data>
+  <data name="SAB" xml:space="preserve">
+    <value>B. SABADEL</value>
+  </data>
+  <data name="SAN" xml:space="preserve">
+    <value>SANTANDER</value>
+  </data>
+  <data name="ABE_SELFBANK" xml:space="preserve">
+    <value>http://api.selfbank.es/cotizaciones.phtml?symbol=FF55-ABE</value>
+  </data>
+  <data name="ABG_SELFBANK" xml:space="preserve">
+    <value>http://api.selfbank.es/cotizaciones.phtml?symbol=FF55-ABG</value>
+  </data>
+  <data name="ACS_SELFBANK" xml:space="preserve">
+    <value>http://api.selfbank.es/cotizaciones.phtml?symbol=FF55-ACS</value>
+  </data>
+  <data name="ACX_SELFBANK" xml:space="preserve">
+    <value>http://api.selfbank.es/cotizaciones.phtml?symbol=FF55-ACX</value>
+  </data>
+  <data name="AMS_SELFBANK" xml:space="preserve">
+    <value>http://api.selfbank.es/cotizaciones.phtml?symbol=FF55-AMS</value>
+  </data>
+  <data name="ANA_SELFBANK" xml:space="preserve">
+    <value>http://api.selfbank.es/cotizaciones.phtml?symbol=FF55-ANA</value>
+  </data>
+  <data name="BBVA_SELFBANK" xml:space="preserve">
+    <value>http://api.selfbank.es/cotizaciones.phtml?symbol=FF55-BBVA</value>
+  </data>
+  <data name="BKT_SELFBANK" xml:space="preserve">
+    <value>http://api.selfbank.es/cotizaciones.phtml?symbol=FF55-BKT</value>
+  </data>
+  <data name="BME_SELFBANK" xml:space="preserve">
+    <value>http://api.selfbank.es/cotizaciones.phtml?symbol=FF55-BME</value>
+  </data>
+  <data name="CABK_SELFBANK" xml:space="preserve">
+    <value>http://api.selfbank.es/cotizaciones.phtml?symbol=FF55-CABK</value>
+  </data>
+  <data name="DIA_SELFBANK" xml:space="preserve">
+    <value>http://api.selfbank.es/cotizaciones.phtml?symbol=FF55-DIA</value>
+  </data>
+  <data name="EBRO_SELFBANK" xml:space="preserve">
+    <value>http://api.selfbank.es/cotizaciones.phtml?symbol=FF55-EBRO</value>
+  </data>
+  <data name="ELE_SELFBANK" xml:space="preserve">
+    <value>http://api.selfbank.es/cotizaciones.phtml?symbol=FF55-ELE</value>
+  </data>
+  <data name="ENG_SELFBANK" xml:space="preserve">
+    <value>http://api.selfbank.es/cotizaciones.phtml?symbol=FF55-ENG</value>
+  </data>
+  <data name="FCC_SELFBANK" xml:space="preserve">
+    <value>http://api.selfbank.es/cotizaciones.phtml?symbol=FF55-FCC</value>
+  </data>
+  <data name="FER_SELFBANK" xml:space="preserve">
+    <value>http://api.selfbank.es/cotizaciones.phtml?symbol=FF55-FER</value>
+  </data>
+  <data name="GAM_SELFBANK" xml:space="preserve">
+    <value>http://api.selfbank.es/cotizaciones.phtml?symbol=FF55-GAM</value>
+  </data>
+  <data name="GAS_SELFBANK" xml:space="preserve">
+    <value>http://api.selfbank.es/cotizaciones.phtml?symbol=FF55-GAS</value>
+  </data>
+  <data name="GRF_SELFBANK" xml:space="preserve">
+    <value>http://api.selfbank.es/cotizaciones.phtml?symbol=FF55-GRF</value>
+  </data>
+  <data name="IAG_SELFBANK" xml:space="preserve">
+    <value>http://api.selfbank.es/cotizaciones.phtml?symbol=FF55-IAG</value>
+  </data>
+  <data name="IBE_SELFBANK" xml:space="preserve">
+    <value>http://api.selfbank.es/cotizaciones.phtml?symbol=FF55-IBE</value>
+  </data>
+  <data name="IBR_SELFBANK" xml:space="preserve">
+    <value>http://api.selfbank.es/cotizaciones.phtml?symbol=FF55-IBR</value>
+  </data>
+  <data name="IDR_SELFBANK" xml:space="preserve">
+    <value>http://api.selfbank.es/cotizaciones.phtml?symbol=FF55-IDR</value>
+  </data>
+  <data name="ITX_SELFBANK" xml:space="preserve">
+    <value>http://api.selfbank.es/cotizaciones.phtml?symbol=FF55-ITX</value>
+  </data>
+  <data name="MAP_SELFBANK" xml:space="preserve">
+    <value>http://api.selfbank.es/cotizaciones.phtml?symbol=FF55-MAP</value>
+  </data>
+  <data name="MTS_SELFBANK" xml:space="preserve">
+    <value>http://api.selfbank.es/cotizaciones.phtml?symbol=FF55-MTS</value>
+  </data>
+  <data name="OHL_SELFBANK" xml:space="preserve">
+    <value>http://api.selfbank.es/cotizaciones.phtml?symbol=FF55-OHL</value>
+  </data>
+  <data name="POP_SELFBANK" xml:space="preserve">
+    <value>http://api.selfbank.es/cotizaciones.phtml?symbol=FF55-POP</value>
+  </data>
+  <data name="REE_SELFBANK" xml:space="preserve">
+    <value>http://api.selfbank.es/cotizaciones.phtml?symbol=FF55-REE</value>
+  </data>
+  <data name="REP_SELFBANK" xml:space="preserve">
+    <value>http://api.selfbank.es/cotizaciones.phtml?symbol=FF55-REP</value>
+  </data>
+  <data name="SAB_SELFBANK" xml:space="preserve">
+    <value>http://api.selfbank.es/cotizaciones.phtml?symbol=FF55-SAB</value>
+  </data>
+  <data name="SAN_SELFBANK" xml:space="preserve">
+    <value>http://api.selfbank.es/cotizaciones.phtml?symbol=FF55-SAN</value>
+  </data>
+  <data name="SCYR_SELFBANK" xml:space="preserve">
+    <value>http://api.selfbank.es/cotizaciones.phtml?symbol=FF55-SCYR</value>
+  </data>
+  <data name="TEF_SELFBANK" xml:space="preserve">
+    <value>http://api.selfbank.es/cotizaciones.phtml?symbol=FF55-TEF</value>
+  </data>
+  <data name="TL5_SELFBANK" xml:space="preserve">
+    <value>http://api.selfbank.es/cotizaciones.phtml?symbol=FF55-TL5</value>
+  </data>
+  <data name="TRE_SELFBANK" xml:space="preserve">
+    <value>http://api.selfbank.es/cotizaciones.phtml?symbol=FF55-TRE</value>
+  </data>
+  <data name="VIS_SELFBANK" xml:space="preserve">
+    <value>http://api.selfbank.es/cotizaciones.phtml?symbol=FF55-VIS</value>
+  </data>
+  <data name="SCYR" xml:space="preserve">
+    <value>SACYR</value>
+  </data>
+  <data name="TEF" xml:space="preserve">
+    <value>TELEFONICA</value>
+  </data>
+  <data name="TL5" xml:space="preserve">
+    <value>MEDIASET</value>
+  </data>
+  <data name="TRE" xml:space="preserve">
+    <value>TECNICAS R</value>
+  </data>
+  <data name="VIS" xml:space="preserve">
+    <value>VISCOFAN</value>
+  </data>
+  <data name="AAAAA_AHORRO_MAIN" xml:space="preserve">
+    <value>http://www.ahorro.com/acnet/fichas/ficha_indice.acnet/indice/IBEX35/indexId/IBX.html</value>
+  </data>
+  <data name="AAAAA_CINCO_DIAS_MAIN" xml:space="preserve">
+    <value>http://cincodias.com/mercados/indices/ibex_35/582/</value>
+  </data>
+  <data name="AAAAA_SELFBANK" xml:space="preserve">
+    <value>http://api.selfbank.es/infomercados/cotizaciones/bolsa_nacional.phtml</value>
+  </data>
+  <data name="BKIA" xml:space="preserve">
+    <value>Bankia</value>
+  </data>
+  <data name="BKIA_AHORRO" xml:space="preserve">
+    <value>http://www.ahorro.com/acnet/fichas/ficha_valor.acnet/IBEX%20%2035/BANKIA/isin/ES0113307021/marketCode/09/submarketId/09.html</value>
+  </data>
+  <data name="BKIA_CINCO_DIAS" xml:space="preserve">
+    <value>http://cincodias.com/mercados/empresas/bankia/56579/</value>
+  </data>
+  <data name="BKIA_SELFBANK" xml:space="preserve">
+    <value>http://api.selfbank.es/cotizaciones.phtml?symbol=FF55-BKIA</value>
+  </data>
+  <data name="JAZ" xml:space="preserve">
+    <value>Jazztel</value>
+  </data>
+  <data name="JAZ_AHORRO" xml:space="preserve">
+    <value>http://www.ahorro.com/acnet/fichas/ficha_valor.acnet/IBEX%20%2035/JAZZTEL/isin/GB00B5TMSP21/marketCode/09/submarketId/09.html</value>
+  </data>
+  <data name="JAZ_CINCO_DIAS" xml:space="preserve">
+    <value>http://cincodias.com/mercados/empresas/jazztel/447/</value>
+  </data>
+  <data name="JAZ_SELFBANK" xml:space="preserve">
+    <value>http://api.selfbank.es/cotizaciones.phtml?symbol=FF55-JAZ</value>
+  </data>
+</root>

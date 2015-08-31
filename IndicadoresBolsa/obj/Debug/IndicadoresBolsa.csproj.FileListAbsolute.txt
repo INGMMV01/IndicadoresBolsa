@@ -1,0 +1,2 @@
+C:\software\IndicadoresBolsa V2\IndicadoresBolsa\obj\Debug\IndicadoresBolsa.exe
+C:\software\IndicadoresBolsa V2\IndicadoresBolsa\obj\Debug\IndicadoresBolsa.pdb

@@ -1,0 +1,20 @@
+C:\Aplicaciones\IndicadoresBolsa\Kitos.Bolsa.ObjetosBolsa\obj\Debug\ResolveAssemblyReference.cache
+C:\Aplicaciones\IndicadoresBolsa\Kitos.Bolsa.ObjetosBolsa\bin\Debug\Kitos.Bolsa.ObjetosBolsa.dll
+C:\Aplicaciones\IndicadoresBolsa\Kitos.Bolsa.ObjetosBolsa\bin\Debug\Kitos.Bolsa.ObjetosBolsa.pdb
+C:\Aplicaciones\IndicadoresBolsa\Kitos.Bolsa.ObjetosBolsa\obj\Debug\Kitos.Bolsa.ObjetosBolsa.dll
+C:\Aplicaciones\IndicadoresBolsa\Kitos.Bolsa.ObjetosBolsa\obj\Debug\Kitos.Bolsa.ObjetosBolsa.pdb
+C:\Aplicaciones\Prueba\IndicadoresBolsa\Kitos.Bolsa.ObjetosBolsa\bin\Debug\Kitos.Bolsa.ObjetosBolsa.dll
+C:\Aplicaciones\Prueba\IndicadoresBolsa\Kitos.Bolsa.ObjetosBolsa\bin\Debug\Kitos.Bolsa.ObjetosBolsa.pdb
+C:\Aplicaciones\Prueba\IndicadoresBolsa\Kitos.Bolsa.ObjetosBolsa\obj\Debug\ResolveAssemblyReference.cache
+C:\Aplicaciones\Prueba\IndicadoresBolsa\Kitos.Bolsa.ObjetosBolsa\obj\Debug\Kitos.Bolsa.ObjetosBolsa.dll
+C:\Aplicaciones\Prueba\IndicadoresBolsa\Kitos.Bolsa.ObjetosBolsa\obj\Debug\Kitos.Bolsa.ObjetosBolsa.pdb
+C:\Aplicaciones\Prueba\IndicadoresBolsa\Kitos.Bolsa.ObjetosBolsa\bin\Release\Kitos.Bolsa.ObjetosBolsa.dll
+C:\Aplicaciones\Prueba\IndicadoresBolsa\Kitos.Bolsa.ObjetosBolsa\bin\Release\Kitos.Bolsa.ObjetosBolsa.pdb
+C:\Aplicaciones\Prueba\IndicadoresBolsa\Kitos.Bolsa.ObjetosBolsa\obj\Release\ResolveAssemblyReference.cache
+C:\Aplicaciones\Prueba\IndicadoresBolsa\Kitos.Bolsa.ObjetosBolsa\obj\Release\Kitos.Bolsa.ObjetosBolsa.dll
+C:\Aplicaciones\Prueba\IndicadoresBolsa\Kitos.Bolsa.ObjetosBolsa\obj\Release\Kitos.Bolsa.ObjetosBolsa.pdb
+C:\Aplicaciones\Prueba\IndicadoresBolsa V2\Kitos.Bolsa.ObjetosBolsa\obj\Debug\ResolveAssemblyReference.cache
+C:\Aplicaciones\Prueba\IndicadoresBolsa V2\Kitos.Bolsa.ObjetosBolsa\obj\Debug\Kitos.Bolsa.ObjetosBolsa.dll
+C:\Aplicaciones\Prueba\IndicadoresBolsa V2\Kitos.Bolsa.ObjetosBolsa\bin\Debug\Kitos.Bolsa.ObjetosBolsa.dll
+C:\Aplicaciones\Prueba\IndicadoresBolsa V2\Kitos.Bolsa.ObjetosBolsa\bin\Debug\Kitos.Bolsa.ObjetosBolsa.pdb
+C:\Aplicaciones\Prueba\IndicadoresBolsa V2\Kitos.Bolsa.ObjetosBolsa\obj\Debug\Kitos.Bolsa.ObjetosBolsa.pdb

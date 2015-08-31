@@ -1,0 +1,3109 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Cotización y acciones de REE | Cinco Días</title>
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="lang" content="es" />
+<meta name="author" content="Ediciones CincoDias" />
+<meta name="description" content="Sigue al minuto la cotización de REE y del resto de empresas del mercado en CincoDías.com." />
+<meta name="keywords" content="REE, empresas, mercados, resumenes, finanzas, dividendos, recomendaciones, futuros, históricos, análisis técnicos, cotización, precios, fecha, cierre, máximos, mínimos" />
+<meta name="DC.date.issue" content="2013-01-14" />
+<meta name="DC.title" lang="es" content="REE en CincoDías.com" />
+<meta name="DC.creator" content="Ediciones CincoDias" />
+<meta name="DC.publisher" content="Ediciones CincoDias" />
+<meta name="DC.description" lang="es" content="Sigue al minuto la cotización de REE y del resto de empresas del mercado en CincoDías.com." />
+<meta name="DC.subject" lang="es" content="REE, empresas, mercados, resumenes, finanzas, dividendos, recomendaciones, futuros, históricos, análisis técnicos, cotización, precios, fecha, cierre, máximos, mínimos" />
+<meta name="DC.date" scheme="W3CDTF" content="FECHA" />
+<meta name="DC.language" scheme="RFC1766" content="es" />
+<meta property="og:title" content="REE"/>
+<meta property="og:type" content="article"/>
+<meta property="og:description" content="Sigue al minuto la cotización de REE y del resto de empresas del mercado en CincoDías.com."/>
+<meta property="og:url" content="/mercados/empresas/ree/475/" />
+<meta property="og:site_name" content="CincoDías"/>
+<meta property="fb:admins" content="" />
+<meta property="fb:app_id" content="208175322545407"/>
+<meta property="og:image" content="http://cincodias.com/img/favicono_cincodias-200x200.png"/>
+<link rel="canonical" href="http://cincodias.com/mercados/empresas/ree/475/" />
+<link rel="alternate" media="only screen and (max-width: 640px)"  href="http://cincodias.com/m/mercados/empresas/ree/475/" />
+<link rel="icon" href="http://cd00.epimg.net/img/favicon.ico" type="image/png" />
+<link rel="shortcut icon" href="http://cd00.epimg.net/img/favicon.ico" type="image/png" />
+<link rel="stylesheet" href="http://cd00.epimg.net/estilos/v1.x/v1.0/comunes.css" />
+<link href="http://cd00.epimg.net/estilos/v1.x/v1.0/cd_base.css" rel="stylesheet" />
+<link href="http://cd00.epimg.net/estilos/v1.x/v1.0/cd_portada.css" rel="stylesheet" />
+<link href="http://cd00.epimg.net/estilos/v1.x/v1.0/cd_noticia.css" rel="stylesheet" />
+<link rel="stylesheet" href="http://cd00.epimg.net/estilos/v1.x/v1.0/cd_empresas.css" type="text/css" />
+<link rel="stylesheet" href="http://cd00.epimg.net/estilos/v1.x/v1.0/cd_mercados.css" type="text/css" />
+<link rel="stylesheet" href="http://cd00.epimg.net/estilos/v1.x/v1.0/cd_analisis_tecnico.css" type="text/css" />
+<script>
+        function crea_options() {
+        var num_paginas = 23;
+        var li_pagina = 1; 
+        var TxtOptions = '';
+        var cont = 1;
+        var _seleccionado = '';
+        for (var cont = 1; cont  <= num_paginas; cont++) {
+            _seleccionado = '';        
+            if ( li_pagina == cont )
+                {  _seleccionado = " selected='selected'";    }
+
+            TxtOptions += "<option value='" + ( num_paginas + 1 - cont ) + "' " + _seleccionado +  ">pág "+ cont +" / "+ num_paginas + "    </option>";       
+        }
+        var SelectObj = document.getElementById('tag_paginacion');
+        var SelectObj1 = document.getElementById('tag_paginacion1');
+
+        SelectObj.innerHTML = TxtOptions;
+        SelectObj1.innerHTML = TxtOptions;
+    }
+    </script>   
+<script language="javaScript" type="text/javascript">
+//<![CDATA[	       
+        
+    var url_cache = "http://cd02.epimg.net";
+	var url_reproductor_epet = "/reproductores/player5D.swf";
+	
+	var UrlPublicidad 		= "http://pubads.g.doubleclick.net/gampad/ads?sz=640x480&iu=%2F7811748%2Fcincodias_web%2Fplayer_video%2Fflash&ciu_szs=&impl=s&gdfp_req=1&env=vp&output=vast&correlator={random}&unviewed_position_start=1";
+	var UrlPublicidadCNBC 	= "http://pubads.g.doubleclick.net/gampad/ads?sz=640x480&iu=%2F7811748%2Fcincodias_cnbc_player_web%2Fflash&ciu_szs=&impl=s&gdfp_req=1&env=vp&output=vast&correlator={random}&unviewed_position_start=1";
+	
+	var publicidad_HTML5 = true;
+	var postroll_HTML5 = true;  
+	var marcado_logtrust = true;
+	
+	var reproductorVideoGlobal = '2';      
+
+	var listado_norm_tags = 'emp_475';
+	var DFP_tags = ["emp_475"];
+//]]>
+</script>
+<script type="text/javascript">
+		var _vrq = _vrq || [];
+		_vrq.push(['id', 391]);
+		_vrq.push(['automate', false]);
+		_vrq.push(['track', function(){}]);
+		(function(d, a){
+			var s = d.createElement(a),
+			x = d.getElementsByTagName(a)[0];
+			s.async = true;
+			s.src = 'http://ep01.epimg.net/js/comun/vr/vrs.20150720.js';
+			x.parentNode.insertBefore(s, x);
+		})(document, 'script');
+	</script>
+</head>
+<body id="noticia" class="ficha change"><script type="text/javascript">PEPuidEnv='W9g/8VWzSEw9HDp4BWmHAg==';</script><div id="pxlhddncntrl" style="display:none"><script language="Javascript" type="text/javascript">var rndPXL=parseInt(Math.random()*10000000);var imgMMD=new Image(1,1);imgMMD.src="http://pxlctl.elpais.com/pxlctl.gif?m=1&r=4&w="+rndPXL;</script><script language="JavaScript" src="http://cd00.epimg.net/js/comun/ot/s_code.js"></script><noscript><img src="http://pxlctl.elpais.com/pxlctl.gif?m=1&r=4" width="1" height="1" alt="" /><img src="//prisacom.112.2o7.net/b/ss/prisacomcincodias,prisacomglobal/1/H.26--NS/0" height="1" width="1" border="0" alt="" /></noscript><script language="Javascript" type="text/javascript" src="http://cd00.epimg.net/js/comun/comun.js"></script><script language="Javascript" type="text/javascript" src="http://ep00.epimg.net/js/comun/avisopc.js"></script></div>
+<script type="text/javascript" src="http://ep00.epimg.net/js/pbs/pbs.slots.js"></script><div id="AdsCode" style="display:none">
+<script type="text/javascript">	
+		var gtpadunit= 'cincodias_web/mercados';
+		var gtpdivid= 'cds_gpt';
+		var listadoKW = [];
+		if (typeof(DFP_tags) != "undefined")
+			listadoKW = DFP_tags;		
+		
+		if (typeof(PBS) != "undefined") 
+		{
+			var huecosPBS = {
+				"inter":false,				
+				"skin":false,				
+				"ldb1":[[728, 90],[980, 90]],					
+				"mpu1":[[300, 250],[300, 600]],
+				"mpu2":[300, 250],
+				"mpu3":[300, 250],
+				"nstdX":[1],	
+				"boxd":{
+					"box1":"ldb1"
+				}
+			};			
+	
+			PBS.setAds({
+				asy:false,
+				adunit:gtpadunit,
+				divid:gtpdivid,
+				key:{ cdiaskey:listadoKW },
+				ads:huecosPBS
+			});
+		}
+		else
+			var PBS = {display:function(){}};			
+	</script>  
+</div>	
+<div id="id_div_publi_cabecera" class="envoltorio_publi mercados estirar">
+<div class="banner_sup estirar">
+<div id='cds_gpt-LDB1' class="banner_sup_a">
+<script type='text/javascript'>
+				PBS.display('LDB1');				
+			</script>
+</div>
+<div id='cds_gpt-BOX1' class="banner_top_b">
+<script type='text/javascript'>
+				PBS.display('BOX1');				
+			</script>
+</div>
+<div class="banner_top_c"></div>
+</div>
+</div>
+<div id="main-head" class="head-mercados estirar">
+<div class="wrap">
+<div class="c-hearder">
+<div class="header-int estirar">
+<div class="H-logo">
+<p class="cabecera-logo estirar">
+<a href="http://cincodias.com/" class="seccion">Mercados</a>
+<a href="http://cincodias.com/" title="Sigue toda la información bursatil al minuto así como las últimas noticias de la bolsa, materias primas, divisas, fondos, tipos de interés y recomendaciones. Además información de empresas y las finanzas personales en CincoDías.com, el diario económico en español."><span>Mercados en Cinco D&iacute;as</span></a>
+</p>
+<div id="cds_login" class="H-login" style="">
+<p class="registro"><a href="https://seguro.cincodias.com/registro?back_url=http://cincodias.com/mercados/empresas/ree/475/" title="Regístrate">Regístrate</a>
+</p>
+<p class="B-login">
+<a title="Iniciar sesión" id="usr_conectado" href="https://seguro.cincodias.com/conectar?back_url=http://cincodias.com/mercados/empresas/ree/475/">Iniciar sesión</a>
+</p>
+</div>
+<div class="loc estirar">
+<div class="c-fecha">
+<p class="actualizado">
+s&aacute;bado, 25 de julio de 2015	    </p> 
+</div>
+</div>
+</div>
+</div>
+</div>
+          
+<div class="main-menu">
+<div class="inner-menu">
+<ul title="Menú princial" id="menu" class="estirar">
+<li id="menu_cdspor" >
+<a title="Inicio" accesskey="" href="http://cincodias.com" onmouseover="CANCEL_HIDE_SUBMENU=true;setTimeout(function() {verSubmenu('portada')},500);" onmouseout="CANCEL_HIDE_SUBMENU=false;desactivarSubmenu();">Inicio</a>	    <a title="despliega capa" href="javascript:activarSubmenu('portada');" class="des"><img src="http://cd00.epimg.net/img/rediseno/cabecera/desp.png"></a>
+</li>
+<li id="menu_cdsmer"  class="marcado" >
+<div itemtype="http://data-vocabulary.org/Breadcrumb" itemscope="itemscope"><a title="Mercados" accesskey="" itemprop="url" href="http://cincodias.com/mercados/" onmouseover="CANCEL_HIDE_SUBMENU=true;setTimeout(function() {verSubmenu('mercados')},500);" onmouseout="CANCEL_HIDE_SUBMENU=false;desactivarSubmenu();"><span itemprop="title">Mercados</span></a></div>	    <a title="despliega capa" href="javascript:activarSubmenu('mercados');" class="des"><img src="http://cd00.epimg.net/img/rediseno/cabecera/desp.png"></a>
+</li>
+<li id="menu_cdsemp" >
+<a title="Empresas" accesskey="" href="http://cincodias.com/cincodias/empresas.html" onmouseover="CANCEL_HIDE_SUBMENU=true;setTimeout(function() {verSubmenu('empresas')},500);" onmouseout="CANCEL_HIDE_SUBMENU=false;desactivarSubmenu();">Empresas</a>	   <a title="despliega capa" href="javascript:activarSubmenu('empresas');" class="des"><img src="http://cd00.epimg.net/img/rediseno/cabecera/desp.png"></a>
+</li>
+<li id="menu_cdseco" >
+<a title="Economía" accesskey="" href="http://cincodias.com/cincodias/economia.html" onmouseover="CANCEL_HIDE_SUBMENU=true;setTimeout(function() {verSubmenu('economia')},500);" onmouseout="CANCEL_HIDE_SUBMENU=false;desactivarSubmenu();">Economía</a>	    <a title="despliega capa" href="javascript:activarSubmenu('economia');" class="des"><img src="http://cd00.epimg.net/img/rediseno/cabecera/desp.png"></a>
+</li>
+<li id="menu_cdstec" >
+<a title="Tecnología" accesskey="" href="http://cincodias.com/cincodias/tecnologia.html" onmouseover="CANCEL_HIDE_SUBMENU=true;setTimeout(function() {verSubmenu('tecnologia')},500);" onmouseout="CANCEL_HIDE_SUBMENU=false;desactivarSubmenu();">Tecnología</a>	    <a title="despliega capa" href="javascript:activarSubmenu('tecnologia');" class="des"><img src="http://cd00.epimg.net/img/rediseno/cabecera/desp.png"></a>
+</li>
+<li id="menu_cdsfinper" >
+<a title="Mis ahorros" accesskey="" href="http://cincodias.com/cincodias/finanzas_personales.html" onmouseover="CANCEL_HIDE_SUBMENU=true;setTimeout(function() {verSubmenu('finanzas-personales')},500);" onmouseout="CANCEL_HIDE_SUBMENU=false;desactivarSubmenu();">Mis ahorros</a>	    <a title="despliega capa" href="javascript:activarSubmenu('finanzas-personales');" class="des"><img src="http://cd00.epimg.net/img/rediseno/cabecera/desp.png"></a>
+</li>
+<li class="last" id="menu_cdsact">
+<a title="5 Sentidos" accesskey="" href="http://cincodias.com/cincodias/sentidos.html" onmouseover="CANCEL_HIDE_SUBMENU=true;setTimeout(function() {verSubmenu('sentidos')},500);" onmouseout="CANCEL_HIDE_SUBMENU=false;desactivarSubmenu();">5 Sentidos</a>	    <a title="despliega capa" href="javascript:activarSubmenu('sentidos');" class="des"><img src="http://cd00.epimg.net/img/rediseno/cabecera/desp.png"></a>
+</li>
+</ul>
+</div>
+<div id="submenus">
+<div class="m-tooltip estirar" id="submenu_portada" style="display:none;" onmouseout="CANCEL_HIDE_SUBMENU=false;desactivarSubmenu();" onmouseover="CANCEL_HIDE_SUBMENU=true;">
+<div class="t-inner estirar">
+   
+<div class="t-cont noticia estirar">
+<p class="t-tit">Noticia del día</p>
+<div class="t-news">
+<div class="mod_img  ">
+<a href="/cincodias/2015/07/24/mercados/1437717011_109135.html"> 
+<img src="http://cd00.epimg.net/cincodias/imagenes/2015/07/24/mercados/1437717011_109135_1437717422_miniatura_normal.jpg">       
+</a>
+</div>
+<div class="mod_txt">
+<h2><a title="Ver noticia" href="/cincodias/2015/07/24/mercados/1437717011_109135.html">El Ibex 35 cede un 1,49% semanal: ¿qué ha pasado?</a></h2>
+</div>
+</div>
+<p class="mod_masinfo"><a title="Ver más" href="http://cincodias.com">Ver</a></p>  
+</div>
+<div class="t-cont pierdas">
+<p class="t-tit">No te pierdas...</p>
+<ul class="estirar">
+<li><a title="Ver noticia" href="/cincodias/2015/07/24/mercados/1437753933_053623.html">Los fondos de Banco Madrid reciben 150 millones</a></li>
+<li><a title="Ver noticia" href="/cincodias/2015/07/24/empresas/1437759267_571549.html">Dos nuevos paros parciales de los controladores</a></li>
+<li><a title="Ver noticia" href="/cincodias/2015/07/24/mercados/1437743620_051216.html">La troika vuelve a Atenas: próximos pasos</a></li>
+</ul>
+<p class="mod_masinfo"><a title="Ver más" href="http://cincodias.com">Ver</a></p>  
+</div>
+<div class="t-cont otros">
+<div class="t-cont enlaces">
+<p class="t-tit">Enlaces</p>
+<ul class="estirar">
+<li><a title="Ibex-35" href="http://cincodias.com/mercados/indices/ibex_35/582/">Ibex-35</a></li>
+<li><a title="Entrevistas" href="http://www.cincodias.com/entrevistas/">Entrevistas</a></li>	      
+<li><a title="Blogs" href="http://cincodias.com/blogs/">Blogs</a></li>
+<li><a title="Vídeos" href="http://cincodias.com/cincodias/videos.html">Vídeos</a></li>
+<li><a title="Fotogalerías" href="http://cincodias.com/cincodias/album.html">Fotogalerías</a></li>
+<li><a title="Lo más visto" href="http://cincodias.com/lomasvisto/">Lo + visto</a></li>
+</ul>
+</div>
+<div class="t-cont blogs">
+<p class="t-tit">&nbsp;</p>
+<ul class="estirar">
+<li><a title="Encuestas" href="http://cincodias.com/encuestas/">Encuestas</a></li>
+<li><a title="5 Sentidos" href="http://cincodias.com/cincodias/sentidos.html">5 Sentidos</a></li>
+<li><a title="Opinión" href="http://cincodias.com/cincodias/opinion.html">Opinión</a></li>
+<li><a title="Infografías" href="http://cincodias.com/cincodias/graficos.html">Infografías</a></li>
+<li><a title="Especiales" href="http://cincodias.com/cincodias/especiales.html">Especiales</a></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+<div class="m-tooltip estirar" id="submenu_mercados" style="display:none;" onmouseout="CANCEL_HIDE_SUBMENU=false;desactivarSubmenu();" onmouseover="CANCEL_HIDE_SUBMENU=true;">
+<div class="t-inner estirar">
+   
+<div class="t-cont noticia estirar">
+<p class="t-tit">Noticia del día</p>
+<div class="t-news">
+<div class="mod_img  ">
+<a href="/cincodias/2015/07/23/mercados/1437663476_033357.html"> 
+<img src="http://cd00.epimg.net/cincodias/imagenes/2015/07/23/mercados/1437663476_033357_1437663611_miniatura_normal.jpg">       
+</a>
+</div>
+<div class="mod_txt">
+<h2><a title="Ver noticia" href="/cincodias/2015/07/23/mercados/1437663476_033357.html">La gran empresa refinancia 21.750 millones a bajos tipos</a></h2>
+</div>
+</div>
+<p class="mod_masinfo"><a title="Ver más" href="http://cincodias.com/mercados/">Ver</a></p>
+</div>
+<div class="t-cont pierdas">
+<p class="t-tit">No te pierdas...</p>
+<ul class="estirar">
+<li><a title="Ver noticia" href="/cincodias/2015/07/24/mercados/1437753933_053623.html">Los fondos de Banco Madrid reciben 150 millones</a></li>
+<li><a title="Ver noticia" href="/cincodias/2015/07/24/mercados/1437743620_051216.html">La troika vuelve a Atenas: próximos pasos</a></li>
+<li><a title="Ver noticia" href="/cincodias/2015/07/24/mercados/1437737443_710106.html">La Socimi Trajano Iberia se estrena en Bolsa el 30 de julio</a></li>
+</ul>
+<p class="mod_masinfo"><a title="Ver más" href="http://cincodias.com/mercados/">Ver</a></p>
+</div>
+<div class="t-cont otros">
+<div class="t-cont enlaces">
+<p class="t-tit">Enlaces</p>
+<ul class="estirar">
+<li><a title="Bolsas" href="http://cincodias.com/mercados/indices/">Bolsas</a></li>
+<li><a title="Análisis técnico" href="http://cincodias.com/mercados/analisis_tecnicos/">Análisis técnico</a></li>
+<li><a title="Recomendaciones" href="http://cincodias.com/tag/recomendaciones_bolsa/a/">Recomendaciones</a></li>
+<li><a title="Fondos" href="http://www.cincodias.com/fondos/">Fondos</a></li>
+<li><a title="Divisas" href="http://cincodias.com/mercados/divisas/">Divisas</a></li>
+<li><a title="Materias primas" href="http://cincodias.com/mercados/materias_primas/">Materias primas</a></li>
+<li><a title="Tipos" href="http://cincodias.com/mercados/tipos_interes/">Tipos</a></li>
+<li><a title="Trading Cinco Días" href="http://www.tradingcincodias.com/">Trading Cinco Días</a></li>
+<li><a title="Buscador de bolsas y mercados" href="http://cincodias.com/mercados/buscador/">Buscador</a></li>
+</ul>
+</div>
+<div class="t-cont blogs">
+<p class="t-tit">Blogs</p>
+<div class="t-blog estirar">
+<div class="mod_img">
+<a href="http://blogs.cincodias.com/vision-mercados/2015/07/a-la-estela-de-los-qes.html" title="A LA ESTELA DE LOS QEs"><img src="http://cd00.epimg.net/img/blogs/78x78_campuzano.jpg"></a>
+</div>
+<div class="mod_txt">
+<p class="titulo"><a href="http://blogs.cincodias.com/vision-mercados/2015/07/a-la-estela-de-los-qes.html" title="A LA ESTELA DE LOS QEs">A LA ESTELA DE LOS QEs</a></p>
+<p class="autor">José Luis Martínez Campuzano</p>
+</div>
+</div>
+<p class="mod_masinfo"><a title="Ver más" href="http://cincodias.com/blogs/">Ver</a></p>
+</div>
+</div>
+</div>
+</div>
+<div class="m-tooltip estirar" id="submenu_empresas" style="display:none;" onmouseout="CANCEL_HIDE_SUBMENU=false;desactivarSubmenu();" onmouseover="CANCEL_HIDE_SUBMENU=true;">
+<div class="t-inner estirar">
+   
+<div class="t-cont noticia estirar">
+<p class="t-tit">Noticia del día</p>
+<div class="t-news">
+<div class="mod_img  ">
+<a href="/cincodias/2015/07/24/empresas/1437729481_124147.html"> 
+<img src="http://cd00.epimg.net/cincodias/imagenes/2015/07/24/empresas/1437729481_124147_1437729554_miniatura_normal.jpg">       
+</a>
+</div>
+<div class="mod_txt">
+<h2><a title="Ver noticia" href="/cincodias/2015/07/24/empresas/1437729481_124147.html">Susto en Abengoa: la acción sufre fuerte volatilidad por las dudas sobre su deuda</a></h2>
+</div>
+</div>
+<p class="mod_masinfo"><a title="Ver más" href="http://cincodias.com/cincodias/empresas.html">Ver</a></p>
+</div>
+<div class="t-cont pierdas">
+<p class="t-tit">No te pierdas...</p>
+<ul class="estirar">
+<li><a title="Ver noticia" href="/cincodias/2015/07/24/empresas/1437759267_571549.html">Dos nuevos paros parciales de los controladores</a></li>
+<li><a title="Ver noticia" href="/cincodias/2015/07/24/empresas/1437759113_086265.html">La CNMC impone a Aena una bajada del 1,9% de las tarifas</a></li>
+<li><a title="Ver noticia" href="/cincodias/2015/07/24/empresas/1437755613_964190.html">Los beneficios de Jazztel caen un 39% en el primer semestre</a></li>
+</ul>
+<p class="mod_masinfo"><a title="Ver más" href="http://cincodias.com/cincodias/empresas.html">Ver</a></p>
+</div>
+<div class="t-cont otros">
+<div class="t-cont enlaces">
+<p class="t-tit">Enlaces</p>
+<ul class="estirar">
+<li><a title="Territorio Pyme" href="http://cincodias.com/territorio_pyme/">Territorio Pyme</a></li>
+<li><a title="Directorio de empresas y directivos" href="http://cincodias.com/territorio_pyme/directorio/">Directorio de empresas y directivos</a></li>	 	
+<li><a title="Zona Startup" href="http://cincodias.com/tag/wayra/a/">Zona Startup</a></li>
+<li><a title="Buscador de bolsas y mercados" href="http://cincodias.com/mercados/buscador/">Buscador</a></li>
+</ul>
+</div>
+<div class="t-cont blogs">
+<p class="t-tit">Blogs</p>
+<div class="t-blog estirar">
+<div class="mod_img">
+<a href="http://blogs.cincodias.com/convertir-novedad-valor/2015/07/innovaci%C3%B3n-intuici%C3%B3n-vs-big-data-y-la-telepat%C3%ADa-inform%C3%A1tica-seg%C3%BAn-mark-zuckerberg-1%C2%AA-parte.html" title="Innovación, intuición vs Big Data y la telepatía informática según Mark Zuckerberg (1ª parte)"><img src="http://cd00.epimg.net/img/blogs/78x78_cnev.jpg"></a>
+</div>
+<div class="mod_txt">
+<p class="titulo"><a href="http://blogs.cincodias.com/convertir-novedad-valor/2015/07/innovaci%C3%B3n-intuici%C3%B3n-vs-big-data-y-la-telepat%C3%ADa-inform%C3%A1tica-seg%C3%BAn-mark-zuckerberg-1%C2%AA-parte.html" title="Innovación, intuición vs Big Data y la telepatía informática según Mark Zuckerberg (1ª parte)">Innovación, intuición vs Big Data y la telepatía informática según Mark Zuckerberg (1ª parte)</a></p>
+<p class="autor">Francisco González Bree</p>
+</div>
+</div>
+<p class="mod_masinfo"><a title="Ver más" href="http://cincodias.com/blogs/">Ver</a></p>
+</div>
+</div>
+</div>
+</div>
+<div class="m-tooltip estirar" id="submenu_tecnologia" style="display:none;" onmouseout="CANCEL_HIDE_SUBMENU=false;desactivarSubmenu();" onmouseover="CANCEL_HIDE_SUBMENU=true;">
+<div class="t-inner estirar">
+   
+<div class="t-cont noticia estirar">
+<p class="t-tit">Noticia del día</p>
+<div class="t-news">
+<div class="mod_img  ">
+<a href="/cincodias/2015/07/23/tecnologia/1437657416_370506.html"> 
+<img src="http://cd00.epimg.net/cincodias/imagenes/2015/07/23/tecnologia/1437657416_370506_1437657760_miniatura_normal.jpg">       
+</a>
+</div>
+<div class="mod_txt">
+<h2><a title="Ver noticia" href="/cincodias/2015/07/23/tecnologia/1437657416_370506.html">El Gobierno impulsa un plan de digitalización industrial</a></h2>
+</div>
+</div>
+<p class="mod_masinfo"><a title="Ver más" href="http://cincodias.com/cincodias/tecnologia.html">Ver</a></p>
+</div>
+<div class="t-cont pierdas">
+<p class="t-tit">No te pierdas...</p>
+<ul class="estirar">
+<li><a title="Ver noticia" href="/cincodias/2015/07/23/tecnologia/1437646183_966436.html">Apple siembra dudas al elevar su dependencia del iPhone</a></li>
+<li><a title="Ver noticia" href="/cincodias/2015/07/21/empresas/1437466023_284802.html">Toshiba cambia su directiva en busca de credibilidad</a></li>
+<li><a title="Ver noticia" href="/cincodias/2015/07/20/tecnologia/1437417277_883901.html">Startups de ciberseguridad, en el foco de los inversores</a></li>
+</ul>
+<p class="mod_masinfo"><a title="Ver más" href="http://cincodias.com/cincodias/tecnologia.html">Ver</a></p>
+</div>
+<div class="t-cont otros">
+<div class="t-cont enlaces">
+<p class="t-tit">Enlaces</p>
+<ul class="estirar">
+<li><a title="Smartlife" href="http://cincodias.com/smartlife/">Smartlife</a></li>	    
+<li><a title="MWC" href="http://cincodias.com/cincodias/mwc.html">MWC</a></li>
+</ul>
+</div>
+<div class="t-cont blogs">
+<p class="t-tit">Blogs</p>
+<div class="t-blog estirar">
+<div class="mod_img">
+<a href="http://blogs.cincodias.com/convertir-novedad-valor/2015/07/innovaci%C3%B3n-intuici%C3%B3n-vs-big-data-y-la-telepat%C3%ADa-inform%C3%A1tica-seg%C3%BAn-mark-zuckerberg-1%C2%AA-parte.html" title="Innovación, intuición vs Big Data y la telepatía informática según Mark Zuckerberg (1ª parte)"><img src="http://cd00.epimg.net/img/blogs/78x78_cnev.jpg"></a>
+</div>
+<div class="mod_txt">
+<p class="titulo"><a href="http://blogs.cincodias.com/convertir-novedad-valor/2015/07/innovaci%C3%B3n-intuici%C3%B3n-vs-big-data-y-la-telepat%C3%ADa-inform%C3%A1tica-seg%C3%BAn-mark-zuckerberg-1%C2%AA-parte.html" title="Innovación, intuición vs Big Data y la telepatía informática según Mark Zuckerberg (1ª parte)">Innovación, intuición vs Big Data y la telepatía informática según Mark Zuckerberg (1ª parte)</a></p>
+<p class="autor">Francisco González Bree</p>
+</div>
+</div>
+<p class="mod_masinfo"><a title="Ver más" href="http://cincodias.com/blogs/">Ver</a></p>
+</div>
+</div>
+</div>
+</div>
+<div class="m-tooltip estirar" id="submenu_finanzas-personales" style="display:none;" onmouseout="CANCEL_HIDE_SUBMENU=false;desactivarSubmenu();" onmouseover="CANCEL_HIDE_SUBMENU=true;">
+<div class="t-inner estirar">
+   
+<div class="t-cont noticia estirar">
+<p class="t-tit">Noticia del día</p>
+<div class="t-news">
+<div class="mod_img  ">
+<a href="/cincodias/2015/07/24/finanzas_personales/1437719162_292937.html"> 
+<img src="http://cd00.epimg.net/cincodias/imagenes/2015/07/24/finanzas_personales/1437719162_292937_1437719453_miniatura_normal.jpg">       
+</a>
+</div>
+<div class="mod_txt">
+<h2><a title="Ver noticia" href="/cincodias/2015/07/24/finanzas_personales/1437719162_292937.html">Cinco consejos del Parlamento Europeo si viajas al extranjero</a></h2>
+</div>
+</div>
+<p class="mod_masinfo"><a title="Ver más" href="http://cincodias.com/cincodias/finanzas_personales.html">Ver</a></p>
+</div>
+<div class="t-cont pierdas">
+<p class="t-tit">No te pierdas...</p>
+<ul class="estirar">
+<li><a title="Ver noticia" href="/cincodias/2015/07/23/finanzas_personales/1437632798_795454.html">¿Han perdido los españoles el miedo a comprar por Internet?</a></li>
+<li><a title="Ver noticia" href="/cincodias/2015/07/22/finanzas_personales/1437546905_179388.html">La trampa del IRPH que cuesta mucho dinero a miles de hipotecados</a></li>
+<li><a title="Ver noticia" href="/cincodias/2015/07/21/finanzas_personales/1437459545_860648.html">Las mejores tarjetas para pagar el combustible estas vacaciones</a></li>
+</ul>
+<p class="mod_masinfo"><a title="Ver más" href="http://cincodias.com/cincodias/finanzas_personales.html">Ver</a></p>
+</div>
+<div class="t-cont otros">
+<div class="t-cont enlaces">
+<p class="t-tit">Enlaces</p>
+<ul class="estirar">
+<li><a title="Fiscalidad" href="http://cincodias.com/tag/impuestos/a/" >Fiscalidad</a></li>	
+<li><a title="Depósitos" href="http://cincodias.iahorro.com/depositos/" >Depósitos</a></li> 	
+<li><a title="Cuentas" href="http://cincodias.iahorro.com/cuentas/" >Cuentas</a></li> 
+<li><a title="Tarjetas" href="http://cincodias.iahorro.com/tarjetas/" >Tarjetas</a></li> 
+<li><a title="Créditos" href="http://cincodias.iahorro.com/creditos/" >Créditos</a></li> 
+<li><a title="Hipotecas" href="http://cincodias.iahorro.com/hipotecas/" >Hipotecas</a></li>   
+</ul>
+</div>
+<div class="t-cont blogs">
+<p class="t-tit">&nbsp;</p>
+<ul class="estirar">
+<li><a title="Vivienda" href="http://cincodias.com/tag/vivienda/a/">Vivienda</a></li>	
+<li><a title="ADSL" href="http://cincodias.iahorro.com/adsl/" >ADSL</a></li> 
+<li><a title="Móviles" href="http://cincodias.iahorro.com/tarifas-moviles/" >Móviles</a></li> 
+<li><a title="Luz y gas" href="http://cincodias.iahorro.com/luz-y-gas/" >Luz y gas</a></li> 
+<li><a title="Seguros coche" href="http://cincodias.iahorro.com/seguros-de-coche/" >Seguros coche</a></li> 
+<li><a title="Seguros hogar" href="http://cincodias.iahorro.com/seguros-de-hogar/" >Seguros hogar</a></li> 	
+</ul>
+</div>
+</div>
+</div>
+</div>
+<div class="m-tooltip estirar" id="submenu_economia" style="display:none;" onmouseout="CANCEL_HIDE_SUBMENU=false;desactivarSubmenu();" onmouseover="CANCEL_HIDE_SUBMENU=true;">
+<div class="t-inner estirar">
+   
+<div class="t-cont noticia estirar">
+<p class="t-tit">Noticia del día</p>
+<div class="t-news">
+<div class="mod_img  ">
+<a href="/cincodias/2015/07/23/economia/1437632294_426459.html"> 
+<img src="http://cd00.epimg.net/cincodias/imagenes/2015/07/23/economia/1437632294_426459_1437632548_miniatura_normal.jpg">       
+</a>
+</div>
+<div class="mod_txt">
+<h2><a title="Ver noticia" href="/cincodias/2015/07/23/economia/1437632294_426459.html">EPA: 411.800 ocupados nuevos, el mayor aumento de los últimos 10 años</a></h2>
+</div>
+</div>
+<p class="mod_masinfo"><a title="Ver más" href="http://cincodias.com/cincodias/economia.html">Ver</a></p>
+</div>
+<div class="t-cont pierdas">
+<p class="t-tit">No te pierdas...</p>
+<ul class="estirar">
+<li><a title="Ver noticia" href="/cincodias/2015/07/24/economia/1437734346_589922.html">Cambios para funcionarios en cálculo de vacaciones y bajas</a></li>
+<li><a title="Ver noticia" href="/cincodias/2015/07/24/economia/1437724878_960884.html">Las pernoctaciones hoteleras suben un 1,6% en junio</a></li>
+<li><a title="Ver noticia" href="/cincodias/2015/07/24/economia/1437723068_986654.html">¿Cómo debemos viajar con los niños en coche?</a></li>
+</ul>
+<p class="mod_masinfo"><a title="Ver más" href="http://cincodias.com/cincodias/economia.html">Ver</a></p>
+</div>
+<div class="t-cont otros">
+<div class="t-cont enlaces">
+<p class="t-tit">Enlaces</p>
+<ul class="estirar">
+<li><a title="Empleo y formación" href="http://cincodias.com/tag/c/34ba87860769b9e51d95517d2fd0e0de">Empleo y formación</a></li>
+<li><a title="Directivos" href="http://cincodias.com/tag/c/36fdd1fece01bdd9ae8a9038230df989">Directivos</a></li>
+<li><a title="Profesionales" href="http://cincodias.com/tag/c/cb8cfb63390ea1cbb92daf702b803ce8">Profesionales</a></li>
+</ul>
+</div>
+<div class="t-cont blogs">
+<p class="t-tit">Blogs</p>
+<div class="t-blog estirar">
+<div class="mod_img">
+<a href="http://blogs.cincodias.com/pulso-latam/2015/07/segunda-etapa-de-mandato-bachelet-tiempos-de-realismo-sin-renuncia.html" title="Segunda etapa de mandato Bachelet, tiempos de “realismo sin renuncia”"><img src="http://cd00.epimg.net/img/blogs/78x78_pulsolatam.jpg"></a>
+</div>
+<div class="mod_txt">
+<p class="titulo"><a href="http://blogs.cincodias.com/pulso-latam/2015/07/segunda-etapa-de-mandato-bachelet-tiempos-de-realismo-sin-renuncia.html" title="Segunda etapa de mandato Bachelet, tiempos de “realismo sin renuncia”">Segunda etapa de mandato Bachelet, tiempos de “realismo sin renuncia”</a></p>
+<p class="autor">d+i Llorente & Cuenca</p>
+</div>
+</div>
+<p class="mod_masinfo"><a title="Ver más" href="http://cincodias.com/blogs/">Ver</a></p>
+</div>
+</div>
+</div>
+</div>
+<div class="m-tooltip estirar" id="submenu_sentidos"  style="display:none;" onmouseout="CANCEL_HIDE_SUBMENU=false;desactivarSubmenu();" onmouseover="CANCEL_HIDE_SUBMENU=true;">
+<div class="t-inner estirar"> 
+   
+<div class="t-cont noticia estirar">
+<p class="t-tit">Noticia del día</p>
+<div class="t-news">
+<div class="mod_img  ">
+<a href="/cincodias/2015/07/23/sentidos/1437679024_007961.html"> 
+<img src="http://cd00.epimg.net/cincodias/imagenes/2015/07/23/sentidos/1437679024_007961_1437679154_miniatura_normal.jpg">       
+</a>
+</div>
+<div class="mod_txt">
+<h2><a title="Ver noticia" href="/cincodias/2015/07/23/sentidos/1437679024_007961.html">Llegar a la cima del fútbol y no morir de éxito</a></h2>
+</div>
+</div>
+<p class="mod_masinfo"><a title="Ver más" href="http://cincodias.com/cincodias/sentidos.html">Ver</a></p>
+</div>
+<div class="t-cont pierdas">
+<p class="t-tit">No te pierdas...</p>
+<ul class="estirar">
+<li><a title="Ver noticia" href="/cincodias/2015/07/23/sentidos/1437680254_459264.html">“No sé por qué no me dan la tercera estrella Michelin”</a></li>
+<li><a title="Ver noticia" href="/cincodias/2015/07/23/sentidos/1437680894_141844.html">El agua que vuelve locos a los japoneses</a></li>
+<li><a title="Ver noticia" href="/cincodias/2015/07/23/sentidos/1437676942_033794.html">La traductora de libros que quiso ser panadera</a></li>
+</ul>
+<p class="mod_masinfo"><a title="Ver más" href="http://cincodias.com/cincodias/sentidos.html">Ver</a></p>
+</div>
+<div class="t-cont otros">
+<div class="t-cont enlaces">
+<p class="t-tit">Enlaces</p>
+<ul class="estirar">
+<li><a href="http://cincodias.com/tag/alta_direccion/a/" onClick="marcarOMNBotonTest('','sabana_sentidos_directivos');" title="Directivos">Directivos</a></li>
+<li><a href="http://cincodias.com/tag/moda/a/" onClick="marcarOMNBotonTest('','sabana_sentidos_moda');" title="Moda">Moda</a></li>
+<li><a href="http://cincodias.com/tag/gastronomia/a/" onClick="marcarOMNBotonTest('','sabana_sentidos_gastronomia');" title="Gastronomía">Gastronomía</a></li>
+<li><a href="http://cincodias.com/tag/lujo/a/" onClick="marcarOMNBotonTest('','sabana_sentidos_lujo');" title="Lujo">Lujo</a></li>
+<li><a href="http://cincodias.com/tag/estilo_vida/a/" onClick="marcarOMNBotonTest('','sabana_sentidos_estilo_de_vida');" title="Estilo de vida">Estilo de vida</a></li>
+<li><a href="http://cincodias.com/tag/arte/a/" onClick="marcarOMNBotonTest('','sabana_sentidos_arte');" title="Arte">Arte</a></li>
+<li><a href="http://cincodias.com/tag/ocio/a/" onClick="marcarOMNBotonTest('','sabana_sentidos_ocio');" title="Ocio">Ocio</a></li>
+</ul>
+</div>
+<div class="t-cont blogs">
+<p class="t-tit">Blogs</p>
+<div class="t-blog estirar">
+<div class="mod_img">
+<a href="http://blogs.cincodias.com/dos-de-copas/2015/06/el-atractivo-de-la-originalidad.html" title="El atractivo de la originalidad"><img src="http://cd00.epimg.net/img/blogs/78x78_dosdecopas.jpg"></a>
+</div>
+<div class="mod_txt">
+<p class="titulo"><a href="http://blogs.cincodias.com/dos-de-copas/2015/06/el-atractivo-de-la-originalidad.html" title="El atractivo de la originalidad">El atractivo de la originalidad</a></p>
+<p class="autor">Mª Pilar Molestina</p>
+</div>
+</div>
+<p class="mod_masinfo"><a title="Ver más" href="http://cincodias.com/blogs/">Ver</a></p>
+</div>
+</div>
+</div>
+</div>
+</div>    
+</div>
+</div>
+</div>
+<div class="contenedor_barra_etiquetas estirar">
+<div class="inner">
+<div class="encabezado">Está pasando</div>
+<div class="contenido">
+<ul class="nav">
+<li><a href="/tag/crisis_deuda_europea/a/" title="Crisis deuda europea">Crisis deuda europea </a></li>
+<li><a href="/tag/grecia/a/" title="Grecia">Grecia </a></li>
+<li><a href="/tag/alexis_tsipras/a/" title="Alexis Tsipras">Alexis Tsipras </a></li>
+<li><a href="/tag/ibex_35/a/" title="IBEX 35">IBEX 35 </a></li>
+<li><a href="/tag/elecciones_generales/a/" title="Elecciones generales">Elecciones generales </a></li>
+<li><a href="/tag/bce_banco_central_europeo/a/" title="BCE">BCE </a></li>
+<li><a href="/tag/iphone/a/" title="iPhone">iPhone </a></li>
+</ul>
+<div class="degradado"></div>
+</div>
+<div class="mastemas"><a href="/tag/listado/" title="&Iacute;ndice de temas y autores">M&aacute;s temas</a></div>
+</div>
+</div>
+<div id="contenedor100">
+<div class="estirar" id="contenedor">    
+<div class="sec-head  estirar">
+<div class="sec-inner">
+<h1>REE</h1>
+</div>
+</div>        
+<div id="contenido" class="estirar">
+<div id='cds_gpt-NSTD1' class="c_publicidad c-horizontal estirar">
+<script type='text/javascript'>
+		PBS.display('NSTD1');
+	</script>
+</div>
+<div id="z-analisis">
+<a name="tabEmpresasPestanas" id="tabEmpresasPestanas"></a>
+<ul id="ficha_empresa_pestanna" class="estirar pestanias">
+<li class="selected" id="li_resumen">
+<a title="Resumen" href="javascript:void(0)" class="" onclick="changeTab('resumen', 'ficha_empresa_pestanna');">Resumen</a>
+</li>
+<li class="" id="li_finanzas">
+<a title="finanzas" href="javascript:void(0)" class="" onclick="changeTab('finanzas', 'ficha_empresa_pestanna');">Finanzas</a>
+</li>
+<li  class="" id="li_dividiendos">
+<a title="dividiendos" href="javascript:void(0)" class="" onclick="changeTab('dividiendos', 'ficha_empresa_pestanna'); genera_grafico_dividendos();">Dividendos</a>
+</li>
+<li  class="" id="li_recomendaciones">
+<a title="recomendaciones" href="javascript:void(0)" class="" onclick="changeTab('recomendaciones', 'ficha_empresa_pestanna'); genera_grafico_precio_objetivo();">Recomendaciones</a>
+</li>
+<li class="" id="li_futuros">
+<a title="futuros" href="javascript:void(0)" class="" onclick="changeTab('futuros', 'ficha_empresa_pestanna');">Futuros</a>
+</li>
+<li class="" id="li_historico">
+<a title="historico" href="javascript:void(0)" class="" onclick="changeTab('historico', 'ficha_empresa_pestanna');">Histórico</a>
+</li>
+<li class="ultimo" id="li_analisis">
+<a title="analisis" href="javascript:void(0)" class="" onclick="changeTab('analisis', 'ficha_empresa_pestanna');">Análisis técnico</a>
+</li>
+</ul>
+<div style="display: block;" class="" id="ficha_resumen">
+<div class="cont estirar">
+<div class="mod_img">
+<div style="min-height:365px;width:448px" class="grafico_canvas cincodias estirar" id="bolsa_indice_grafico_475"></div>
+<script type="text/javascript">
+cargaNuevosGraficos({ 
+      "perfil": "cincodias",
+      "url": "/mercados/datos/valores/DC/475/475.js2",
+      "valor": "475",
+      "elemento_id": "bolsa_indice_grafico_475",
+      "tipo": "VALOR"
+  });
+
+ </script>
+</div>
+<div class="info_grf estirar"> 
+<p class="fecha">
+24-07-2015  | <span> 17:35</span>
+</p>
+<div class="mod_cifra dest">
+<h3>Últ. Cotización</h3>
+<p>72,860</p>
+</div>
+<div class="mod_cifra">
+<h3>Cambio neto</h3>
+<p class="neg">-0,370</p>
+</div>
+<div class="mod_cifra peq">
+<h3>Cambio %</h3>
+<p class="neg">-0,505</p>
+</div>
+<div class="mod_cifra peq">
+<h3>Máx. intradía</h3>
+<p>73,760</p>
+</div>
+<div class="mod_cifra peq">
+<h3>Min. intradía</h3>
+<p>72,860</p>
+</div>
+<div class="mod_cifra peq">
+<h3>Apertura</h3>
+<p>73,200</p>
+</div>
+<div class="mod_cifra peq">
+<h3>Máx 52 semanas</h3>
+<p>79,200</p>
+</div>
+<div class="mod_cifra peq">
+<h3>Min 52 semanas</h3>
+<p>59,300</p>
+</div>
+<div class="mod_cifra peq">
+<h3>Cambio % YTD</h3>
+<p>-0,478</p>
+</div>
+<div class="mod_cifra peq">
+<h3>Capitalización (mill.€)</h3>
+<p>9.845,04</p>
+</div>
+<div class="mod_cifra peq">
+<h3>Volumen</h3>
+<p>398.513,00</p>
+</div>
+<div class="mod_cifra peq">
+<h3>Volumen (en €) </h3>
+<p>29.035.657,18</p>
+</div>
+<p class="mod_masinfo interactivo">
+<a title="Gráfico interactivo" href="http://flashchart.webfg.com/cincodiasv2/index.php?ric=REE.MC&tipo=acciones" target="_blank">Gráfico interactivo</a>
+</p>
+</div>
+<div class="infoempresa estirar">
+<div class="finanzas">	
+<div class="rentabilidad">
+<table class="tabla1 tabla2" summary="Poner un sumario correcto">
+<caption>FINANZAS FICHA EMPRESA</caption>
+<thead>
+<tr>
+<th scope="col"></th>
+<th scope="col">2014</th>
+<th scope="col">2015</th>
+<th class="ultimo" scope="col">2016</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<th scope="row" class="thfila">Per</th>
+<td>13,730</td>
+<td>15,960</td>
+<td>14,787</td>
+</tr>
+<tr>
+</tr><tr>
+<th scope="row" class="thfila">Ingresos<br>(Miles €)</th>
+<td>1.846,714</td>
+<td>1.969,364</td>
+<td>2.020,745</td>
+</tr>
+<tr><th scope="row" class="thfila">Beneficios<br>(Miles €)</th>
+<td>717,821</td>
+<td>615,548</td>
+<td>665,230</td>
+</tr>
+<tr>
+<th scope="row" class="thfila">Precio</th>
+<td>3,912</td>
+<td>3,569</td>
+<td>3,288</td>
+</tr>
+</tbody>
+</table>
+<p class="mod_masinfo"><a title="Más información" href="#tabEmpresasPestanas" onclick="changeTab('finanzas', 'ficha_empresa_pestanna');" class="btn-masinfo">Info</a></p>
+</div>
+</div>
+<div class=" dividendos estirar">
+<div class="rentabilidad estirar">
+<table class="tabla1 tabla2">
+<caption>FINANZAS FICHA EMPRESA</caption>
+<thead>
+<tr>
+<th scope="col"></th>
+<th scope="col">2014</th>
+<th scope="col">2015</th>
+<th class="ultimo" scope="col">2016</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<th scope="row" class="thfila">DPA</th>
+<td>3,000</td>
+<td>3,249</td>
+<td>3,395</td>
+</tr>
+<tr>
+<th scope="row" class="thfila">Rentabilidad (%)</th>
+<td>4,117</td>
+<td>4,459</td>
+<td>4,660</td>
+</tr>
+</tbody>
+</table>
+<p class="mod_masinfo"><a title="Más información" href="#tabEmpresasPestanas" onclick="changeTab('dividiendos', 'ficha_empresa_pestanna');genera_grafico_dividendos();">Info</a></p>
+</div>
+<div class="objetivo estirar">
+<table class="tabla1 tabla2">
+<caption>FINANZAS FICHA EMPRESA</caption>
+<thead>
+<tr>
+<th scope="col">Rentabilidad</th>
+<th scope="col">2015</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<th scope="row" class="thfila">Precio objetivo</th>
+<td>75,523</td>
+</tr>
+<tr>
+<th scope="row" class="thfila">Potencial %</th>
+<td>0,037%</td>
+</tr>
+</tbody>
+</table>
+<p class="mod_masinfo"><a title="Más información" href="#tabEmpresasPestanas" onclick="changeTab('recomendaciones', 'ficha_empresa_pestanna');genera_grafico_precio_objetivo();">Info</a></p>
+</div>
+</div>
+</div>
+<div class="tit-ult-cot estirar">	      
+<table class="tabla3 tabla4" summary="Histórico">
+<caption>Histórico</caption>
+<thead>
+<tr>
+<th scope="col">Fecha</th>
+<th scope="col">Cierre</th>
+<th scope="col">Cambio %</th>
+<th scope="col">Cambio Ptos.</th>
+<th scope="col">Máx.</th>
+<th scope="col">Mín.</th>
+<th scope="col">Volumen</th>
+<th scope="col" class="ultimo">Capital</th>
+</tr>
+</thead>
+<tbody>
+<tr >
+<td>24-07-2015</td>
+<td>72,860</td>
+<td>-0,505</td>
+<td>-0,370</td>
+<td>73,760</td>
+<td>72,860</td>
+<td>398.513</td>
+<td>29.035.657</td>
+</tr>
+<tr class="par">
+<td>23-07-2015</td>
+<td>73,230</td>
+<td>-0,611</td>
+<td>-0,450</td>
+<td>74,010</td>
+<td>72,900</td>
+<td>471.895</td>
+<td>34.556.871</td>
+</tr>
+<tr >
+<td>22-07-2015</td>
+<td>73,680</td>
+<td>-0,701</td>
+<td>-0,520</td>
+<td>74,020</td>
+<td>73,460</td>
+<td>512.597</td>
+<td>37.768.147</td>
+</tr>
+<tr class="par">
+<td>21-07-2015</td>
+<td>74,200</td>
+<td>0,040</td>
+<td>0,030</td>
+<td>74,580</td>
+<td>73,910</td>
+<td>429.919</td>
+<td>31.899.990</td>
+</tr>
+<tr >
+<td>20-07-2015</td>
+<td>74,170</td>
+<td>1,022</td>
+<td>0,750</td>
+<td>74,180</td>
+<td>73,560</td>
+<td>413.989</td>
+<td>30.705.564</td>
+</tr>
+</tbody>
+</table>
+<p class="mod_masinfo historico">
+<a href="#tabEmpresasPestanas" onclick="changeTab('historico', 'ficha_empresa_pestanna');" title="ver historico">Info</a>
+</p>                                           
+</div>
+</div>
+</div>
+<div style="display: none;" class="" id="ficha_finanzas">
+<table class="tabla1 tabla2">
+<caption>FINANZAS FICHA EMPRESA</caption>
+<thead>
+<tr>
+<th scope="col"></th>
+<th scope="col">2014</th>
+<th scope="col">2015</th>
+<th class="ultimo" scope="col">2016</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<th scope="row" class="thfila">Ingresos (Millones €)</th>
+<td>1.846,71</td>
+<td>1.969,36</td>
+<td>2.020,74</td>
+</tr>
+<tr>
+<th scope="row" class="thfila">Ebitda (Millones €)</th>
+<td>1.374,88</td>
+<td>1.476,78</td>
+<td>1.519,03</td>
+</tr>
+<tr>
+<th scope="row" class="thfila">Cash Flow (Millones €)</th>
+<td>1.158,50</td>
+<td>1.054,85</td>
+<td>1.051,94</td>
+</tr>
+<tr>
+<th scope="row" class="thfila">Beneficio (Millones €)</th>
+<td>717,82</td>
+<td>615,55</td>
+<td>665,23</td>
+</tr>
+<tr>
+<th scope="row" class="thfila">BPA</th>
+<td>5,307</td>
+<td>4,565</td>
+<td>4,927</td>
+</tr>
+<tr>
+<th scope="row" class="thfila">CFPA</th>
+<td>8,57</td>
+<td>7,81</td>
+<td>7,79</td>
+</tr>
+<tr>
+<th scope="row" class="thfila">DPA</th>
+<td>3,000</td>
+<td>3,249</td>
+<td>3,395</td>
+</tr>
+<tr>
+<th scope="row" class="thfila">PER</th>
+<td>13,73</td>
+<td>15,96</td>
+<td>14,79</td>
+</tr>
+<tr>
+<th scope="row" class="thfila">Precio / book</th>
+<td>3,91</td>
+<td>3,57</td>
+<td>3,29</td>
+</tr>
+<tr>
+<th scope="row" class="thfila">Margen Operativo</th>
+<td>
+0,74
+</td>
+<td>
+0,75
+</td>
+<td>
+0,75
+</td>
+</tr>
+<tr>
+<th scope="row" class="thfila">Margen</th>
+<td>
+0,39
+</td>
+<td>
+0,31
+</td>
+<td>
+0,33
+</td>
+</tr>
+<tr>
+<th scope="row" class="thfila">ROE</th>
+<td>30,31</td>
+<td>22,96</td>
+<td>22,85</td>
+</tr>
+<tr>
+<th scope="row" class="thfila">ROA</th>
+<td>7,11</td>
+<td>6,94</td>
+<td>7,51</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div style="display: none;" class="" id="ficha_dividiendos">
+<div class="p-objetivo estirar">
+<h3>Dividendos</h3>
+<div class="exp">
+<span class="obj">Dividendos*</span>
+</div>
+<div style="width: 520px; height: 222px; position: relative;" id="graf_dividendos_obj">
+<!--[if IE]>
+<script type="text/javascript" src="http://cd00.epimg.net/js/graficos/v1.x/v1.0/flashcanvas.js"></script><![endif]-->
+<script src="http://cd00.epimg.net/js/graficos/v1.x/v1.0/flotr2.min.js" type="text/javascript"></script>
+<script type="text/javascript">
+    function genera_grafico_dividendos(){
+    
+
+    var ln_max_grafico = "3.40";
+    var d1 =[
+    
+        
+    [1,1.7478],
+        
+    [2,2.2116],
+        
+    [3,2.5422],
+        
+    [4,3.0000],
+        
+    [5,3.2485],
+        
+    [6,3.3953],
+        ];
+
+    
+        
+    var periodo1 = "2011";
+        
+    var periodo2 = "2012";
+        
+    var periodo3 = "2013";
+        
+    var periodo4 = "2014";
+        
+    var periodo5 = "2015";
+        
+    var periodo6 = "2016";
+    
+    
+    // para los ticks de precio objetivo 
+    var d1options = {
+    data: d1, 
+    bars:{show: true, barWidth:0.1, fillOpacity:1, fillColor:'#722945', color:'#722945'},
+    mouse: { trackFormatter:function(pos) {
+    
+    
+        if(pos.x ==1)pos.x = 2011;
+        if(pos.x ==2)pos.x = 2012;
+        if(pos.x ==3)pos.x = 2013;
+        if(pos.x ==4)pos.x = 2014;
+        if(pos.x ==5)pos.x = 2015;
+        if(pos.x ==6)pos.x = 2016;
+        
+    return '<strong>'+ pos.x +'<br/>Dividendos: ' + pos.y +'</strong>';
+    }
+    }
+    };
+    
+    
+    var opciones = { xaxis: {
+    // los valores y ticks para las X
+    ticks: [
+    
+	
+		
+	[1, periodo1],
+		
+	[2, periodo2],
+		
+	[3, periodo3],
+		
+	[4, periodo4],
+		
+	[5, periodo5],
+		
+	[6, periodo6],
+				
+    ]			      
+    },
+    // los valores para las Y
+    yaxis: {
+        min : 0, 
+        max : ln_max_grafico
+    },
+    mouse: {
+    // numero de decimales a mostrar por raton
+    trackDecimals:4,
+    track: true,
+    position: 'n',
+    relative: true,
+    margin:25
+    }
+    };
+    Flotr.draw(
+    graf_dividendos_obj,
+    [d1options],
+    opciones
+    );
+    }
+    </script>
+</div>
+</div>
+</div>
+<div style="display: none;" class="" id="ficha_recomendaciones">
+<div class="mod_termometro term-v estirar">
+<h3>Tendencia de las recomendaciones</h3>
+<div class="barra estirar">
+<div class="info">
+<span class="comprar">1: Comprar</span>
+<span class="vender">5: vender</span>
+<span class="rec">Nº Recomendaciones</span>
+</div>
+<div class="segmentBar" style="">
+<p>Hoy</p>
+<div class="segment0"><span>3</span></div>
+<div class="segment1"><span>5</span></div>
+<div class="segment2"><span>14</span></div>
+<div class="segment3"><span>3</span></div>
+<div class="segment4"><span>0</span></div>
+<span class="recom">25</span>
+<span class="porcentaje" style="top:53.6%">2,680*</span>
+</div>
+<div class="segmentBar" style="">
+<p>Hace 1 mes</p>
+<div class="segment0"><span>3</span></div>
+<div class="segment1"><span>5</span></div>
+<div class="segment2"><span>14</span></div>
+<div class="segment3"><span>2</span></div>
+<div class="segment4"><span>0</span></div>
+<span class="recom">24</span>
+<span class="porcentaje" style="top:52.5%">2,625*</span>
+</div>
+<div class="segmentBar" style="">
+<p>Hace 2 mes</p>
+<div class="segment0"><span>3</span></div>
+<div class="segment1"><span>7</span></div>
+<div class="segment2"><span>13</span></div>
+<div class="segment3"><span>2</span></div>
+<div class="segment4"><span>0</span></div>
+<span class="recom">25</span>
+<span class="porcentaje" style="top:51.2%">2,560*</span>
+</div>
+<div class="segmentBar" style="">
+<p>Hace 3 mes</p>
+<div class="segment0"><span>3</span></div>
+<div class="segment1"><span>7</span></div>
+<div class="segment2"><span>13</span></div>
+<div class="segment3"><span>2</span></div>
+<div class="segment4"><span>0</span></div>
+<span class="recom">25</span>
+<span class="porcentaje" style="top:51.2%">2,560*</span>
+</div>
+</div>
+<div class="exp">
+<p>*La recomendación media indica la opinión de los expertos sobre el valor, siendo 1 la recomendación más positiva y 5 la más negativa. Se elabora a partir del consenso de analistas recopilado por Reuters. Dentro de la barra se incluye el número de recomendaciones de cada categoría.</p>
+</div>
+</div>
+<div class="p-objetivo estirar">
+<h3>precio objetivo</h3>
+<div class="exp">
+<span class="obj">Precio objetivo*</span>
+<span class="cot">Cotización</span>
+<p class="leyend">*El precio objetivo es la media de los precios objetivos recopilada por Reuters. El potencial, alcista o bajista, indica la desviación de éste respecto a la cotización.</p>
+</div>
+<div id= "cont_pre_obj" style="width: 520px; height: 222px; position: relative;">
+<!--[if IE]>
+<script type="text/javascript" src="http://cd00.epimg.net/mercados/empresas/ /js/graficos/v1.x/v1.0/flashcanvas.js">
+        </script><![endif]-->
+<script src="http://cd00.epimg.net/js/graficos/v1.x/v1.0/flotr2.min.js" type="text/javascript"></script>        
+<script type="text/javascript">
+            function genera_grafico_precio_objetivo (){
+            // precios objetivos para columnas 123y4
+
+            
+            
+            var d1 =             
+            
+                        
+            		[[1,75.523],
+	                            
+            		[2,75.364],
+                                    
+            		[3,75.122],
+                                    
+            	      [4,74.746]];
+                         
+            
+                        
+            var periodo1 = "Hoy";
+                        
+            var periodo2 = "Hace 1 mes";
+                        
+            var periodo3 = "Hace 2 mes";
+                        
+            var periodo4 = "Hace 3 mes";
+                        
+            // para los ticks de precio objetivo 
+            var d1options = {
+			      data: d1, 
+			      bars:{show: true,
+				    barWidth:0.1, 
+				    fillOpacity:1,
+				    fillColor:'#722945', 
+				    color:'#722945'},
+			      mouse: { trackFormatter:function(pos) {
+	    
+	    
+                        if(pos.x ==1)pos.x = periodo1;
+                        if(pos.x ==2)pos.x = periodo2;
+                        if(pos.x ==3)pos.x = periodo3;
+                        if(pos.x ==4)pos.x = periodo4;
+                        
+		  return '<strong>'+ pos.x +'<br />Precio Objetivo: ' + pos.y +'</strong>';
+								      }
+				      }
+			    };
+	    //  primeros valores y precios reales para las columnas
+	    
+	    var d2 =
+	    
+                        
+            		[[1.12,72.860],
+	                            
+            		[2.12,74.690],
+                                    
+            		[3.12,78.060],
+                                    
+            	      [4.12,78.590]];
+                                    
+            var d2options = {
+			      data: d2,
+			      bars:{show: true, 
+				    barWidth:0.1, 
+				    fillOpacity:1, 
+				    fillColor:'#54777b', //precio objetivo
+				    color:'#54777b' //cotizacion
+				    },
+			      mouse: {trackFormatter:function(pos) {
+	    
+	    
+                        if(pos.x ==1.1)pos.x = periodo1;
+                        if(pos.x ==2.1)pos.x = periodo2;
+                        if(pos.x ==3.1)pos.x = periodo3;
+                        if(pos.x ==4.1)pos.x = periodo4;
+                        	
+		    return  '<strong>Precio Real: ' + pos.y +'</strong>';
+								    }
+				      }
+			      };
+            var opciones = { xaxis: {
+				      // los valores y ticks para las X
+				      ticks: [
+				      
+							
+														
+							[1.05, periodo1],
+														
+							[2.05, periodo2],
+														
+							[3.05, periodo3],
+														
+							[4.05, periodo4],
+														
+						
+						]
+				      },
+				      // los valores para las Y
+			      yaxis: {
+				       
+				      autoscaleMargin : 1
+				      },
+			      mouse: {
+				      // numero de decimales a mostrar por raton
+				      trackDecimals:2,
+				      track: true,
+				      position: 'n',
+				      relative: true,
+				      margin:25
+				      }
+			    };
+            Flotr.draw(
+			cont_pre_obj,
+			[d1options, d2options],
+			opciones
+			);
+        }
+        </script>
+</div>
+</div>
+</div>
+<div style="display: none;" class="" id="ficha_futuros">
+<iframe width="664" scrolling="no" height="335" frameborder="no" style="height: 335px;" id="ultimas_noticias" src="http://www.cincodias.com/iframe/futurosEmpresaIframe.php?id=475"></iframe>
+</div>
+<div style="display: none;" class="" id="ficha_historico">
+<div class="arriba estirar">
+<div class="page">
+<select id='tag_paginacion' 
+name="select2" onChange="javascript:location.href='/mercados/empresas/ree/475/historico/'+this.value;">
+</select>
+<a class="button activo"
+title="Página siguiente" href="/mercados/empresas/ree/475/historico/22">&gt;</a>
+<a class="button inactivo" 
+title="Página anterior" href="javascript:void(0);">&lt;</a>
+</div> 
+</div> 
+<table class="tabla3 tabla4" summary="resumen del contenido de la tabla">
+<caption>Histórico</caption>
+<thead>
+<tr>
+<th scope="col">Fecha</th>
+<th scope="col">Cierre</th>
+<th scope="col">Máximo</th>
+<th scope="col" class="ultimo">Mínimo</th>
+</tr>
+</thead>
+<tbody>
+<tr >
+<td>24-07-2015</td>
+<td>72,860</td>
+<td>73,760</td>
+<td>72,860</td>
+</tr>
+<tr class="par">
+<td>23-07-2015</td>
+<td>73,230</td>
+<td>74,010</td>
+<td>72,900</td>
+</tr>
+<tr >
+<td>22-07-2015</td>
+<td>73,680</td>
+<td>74,020</td>
+<td>73,460</td>
+</tr>
+<tr class="par">
+<td>21-07-2015</td>
+<td>74,200</td>
+<td>74,580</td>
+<td>73,910</td>
+</tr>
+<tr >
+<td>20-07-2015</td>
+<td>74,170</td>
+<td>74,180</td>
+<td>73,560</td>
+</tr>
+<tr class="par">
+<td>17-07-2015</td>
+<td>73,420</td>
+<td>73,800</td>
+<td>73,350</td>
+</tr>
+<tr >
+<td>16-07-2015</td>
+<td>73,420</td>
+<td>73,640</td>
+<td>73,090</td>
+</tr>
+<tr class="par">
+<td>15-07-2015</td>
+<td>72,810</td>
+<td>73,130</td>
+<td>72,190</td>
+</tr>
+<tr >
+<td>14-07-2015</td>
+<td>72,280</td>
+<td>72,280</td>
+<td>71,710</td>
+</tr>
+<tr class="par">
+<td>13-07-2015</td>
+<td>72,140</td>
+<td>72,200</td>
+<td>71,540</td>
+</tr>
+<tr >
+<td>10-07-2015</td>
+<td>71,670</td>
+<td>71,680</td>
+<td>70,160</td>
+</tr>
+<tr class="par">
+<td>09-07-2015</td>
+<td>69,690</td>
+<td>69,930</td>
+<td>68,550</td>
+</tr>
+<tr >
+<td>08-07-2015</td>
+<td>68,580</td>
+<td>68,820</td>
+<td>67,860</td>
+</tr>
+<tr class="par">
+<td>07-07-2015</td>
+<td>67,950</td>
+<td>69,340</td>
+<td>67,950</td>
+</tr>
+<tr >
+<td>06-07-2015</td>
+<td>68,600</td>
+<td>70,240</td>
+<td>68,130</td>
+</tr>
+<tr class="par">
+<td>03-07-2015</td>
+<td>70,540</td>
+<td>71,150</td>
+<td>70,120</td>
+</tr>
+<tr >
+<td>02-07-2015</td>
+<td>71,060</td>
+<td>71,340</td>
+<td>69,920</td>
+</tr>
+<tr class="par">
+<td>01-07-2015</td>
+<td>69,920</td>
+<td>70,750</td>
+<td>69,510</td>
+</tr>
+<tr >
+<td>30-06-2015</td>
+<td>71,880</td>
+<td>73,030</td>
+<td>71,800</td>
+</tr>
+<tr class="par">
+<td>29-06-2015</td>
+<td>72,600</td>
+<td>73,480</td>
+<td>71,550</td>
+</tr>
+<tr >
+<td>26-06-2015</td>
+<td>74,720</td>
+<td>74,740</td>
+<td>74,200</td>
+</tr>
+<tr class="par">
+<td>25-06-2015</td>
+<td>74,740</td>
+<td>75,280</td>
+<td>74,100</td>
+</tr>
+<tr >
+<td>24-06-2015</td>
+<td>74,690</td>
+<td>74,940</td>
+<td>74,100</td>
+</tr>
+<tr class="par">
+<td>23-06-2015</td>
+<td>74,670</td>
+<td>75,340</td>
+<td>74,520</td>
+</tr>
+<tr >
+<td>22-06-2015</td>
+<td>74,930</td>
+<td>74,930</td>
+<td>73,760</td>
+</tr>
+<tr class="par">
+<td>19-06-2015</td>
+<td>72,840</td>
+<td>73,490</td>
+<td>72,460</td>
+</tr>
+<tr >
+<td>18-06-2015</td>
+<td>73,010</td>
+<td>73,010</td>
+<td>71,220</td>
+</tr>
+<tr class="par">
+<td>17-06-2015</td>
+<td>71,910</td>
+<td>72,930</td>
+<td>71,430</td>
+</tr>
+<tr >
+<td>16-06-2015</td>
+<td>72,600</td>
+<td>72,680</td>
+<td>71,010</td>
+</tr>
+<tr class="par">
+<td>15-06-2015</td>
+<td>72,230</td>
+<td>73,060</td>
+<td>71,780</td>
+</tr>
+<tr >
+<td>12-06-2015</td>
+<td>73,390</td>
+<td>74,290</td>
+<td>72,750</td>
+</tr>
+<tr class="par">
+<td>11-06-2015</td>
+<td>74,030</td>
+<td>74,570</td>
+<td>73,650</td>
+</tr>
+<tr >
+<td>10-06-2015</td>
+<td>74,430</td>
+<td>74,430</td>
+<td>72,830</td>
+</tr>
+<tr class="par">
+<td>09-06-2015</td>
+<td>73,360</td>
+<td>73,670</td>
+<td>72,890</td>
+</tr>
+<tr >
+<td>08-06-2015</td>
+<td>73,250</td>
+<td>73,920</td>
+<td>73,090</td>
+</tr>
+<tr class="par">
+<td>05-06-2015</td>
+<td>73,840</td>
+<td>74,510</td>
+<td>73,610</td>
+</tr>
+<tr >
+<td>04-06-2015</td>
+<td>74,380</td>
+<td>75,340</td>
+<td>74,190</td>
+</tr>
+<tr class="par">
+<td>03-06-2015</td>
+<td>76,340</td>
+<td>77,150</td>
+<td>76,150</td>
+</tr>
+<tr >
+<td>02-06-2015</td>
+<td>76,730</td>
+<td>77,190</td>
+<td>75,890</td>
+</tr>
+<tr class="par">
+<td>01-06-2015</td>
+<td>76,720</td>
+<td>77,230</td>
+<td>76,420</td>
+</tr>
+<tr >
+<td>29-05-2015</td>
+<td>76,580</td>
+<td>77,500</td>
+<td>76,350</td>
+</tr>
+<tr class="par">
+<td>28-05-2015</td>
+<td>76,970</td>
+<td>76,970</td>
+<td>75,890</td>
+</tr>
+<tr >
+<td>27-05-2015</td>
+<td>76,450</td>
+<td>76,730</td>
+<td>74,990</td>
+</tr>
+<tr class="par">
+<td>26-05-2015</td>
+<td>75,790</td>
+<td>76,460</td>
+<td>74,780</td>
+</tr>
+<tr >
+<td>25-05-2015</td>
+<td>75,700</td>
+<td>78,130</td>
+<td>74,840</td>
+</tr>
+<tr class="par">
+<td>22-05-2015</td>
+<td>78,060</td>
+<td>78,630</td>
+<td>77,690</td>
+</tr>
+<tr >
+<td>21-05-2015</td>
+<td>78,460</td>
+<td>78,460</td>
+<td>77,760</td>
+</tr>
+<tr class="par">
+<td>20-05-2015</td>
+<td>78,550</td>
+<td>78,650</td>
+<td>77,290</td>
+</tr>
+<tr >
+<td>19-05-2015</td>
+<td>78,200</td>
+<td>78,550</td>
+<td>77,680</td>
+</tr>
+<tr class="par">
+<td>18-05-2015</td>
+<td>77,530</td>
+<td>77,530</td>
+<td>76,070</td>
+</tr>
+<tr >
+<td>15-05-2015</td>
+<td>76,340</td>
+<td>76,450</td>
+<td>75,740</td>
+</tr>
+<tr class="par">
+<td>14-05-2015</td>
+<td>75,880</td>
+<td>76,040</td>
+<td>75,340</td>
+</tr>
+<tr >
+<td>13-05-2015</td>
+<td>75,910</td>
+<td>76,740</td>
+<td>74,830</td>
+</tr>
+<tr class="par">
+<td>12-05-2015</td>
+<td>74,910</td>
+<td>75,060</td>
+<td>73,870</td>
+</tr>
+<tr >
+<td>11-05-2015</td>
+<td>75,100</td>
+<td>75,300</td>
+<td>74,450</td>
+</tr>
+<tr class="par">
+<td>08-05-2015</td>
+<td>75,090</td>
+<td>75,100</td>
+<td>73,860</td>
+</tr>
+<tr >
+<td>07-05-2015</td>
+<td>73,500</td>
+<td>73,620</td>
+<td>71,950</td>
+</tr>
+<tr class="par">
+<td>06-05-2015</td>
+<td>72,930</td>
+<td>73,520</td>
+<td>72,110</td>
+</tr>
+<tr >
+<td>05-05-2015</td>
+<td>72,670</td>
+<td>75,970</td>
+<td>72,670</td>
+</tr>
+<tr class="par">
+<td>04-05-2015</td>
+<td>75,230</td>
+<td>75,880</td>
+<td>74,550</td>
+</tr>
+<tr >
+<td>30-04-2015</td>
+<td>75,010</td>
+<td>76,450</td>
+<td>74,810</td>
+</tr>
+<tr class="par">
+<td>29-04-2015</td>
+<td>75,870</td>
+<td>78,820</td>
+<td>75,770</td>
+</tr>
+<tr >
+<td>28-04-2015</td>
+<td>78,450</td>
+<td>79,200</td>
+<td>77,760</td>
+</tr>
+<tr class="par">
+<td>27-04-2015</td>
+<td>78,940</td>
+<td>79,180</td>
+<td>77,450</td>
+</tr>
+<tr >
+<td>24-04-2015</td>
+<td>78,590</td>
+<td>78,700</td>
+<td>77,600</td>
+</tr>
+<tr class="par">
+<td>23-04-2015</td>
+<td>77,420</td>
+<td>78,370</td>
+<td>77,160</td>
+</tr>
+<tr >
+<td>22-04-2015</td>
+<td>77,710</td>
+<td>78,600</td>
+<td>77,310</td>
+</tr>
+</tbody>
+</table>            
+<div class="abajo">
+<div class="page">
+<select id='tag_paginacion1' 
+name="select2" onChange="javascript:location.href='/mercados/empresas/ree/475/historico/'+this.value;"></select>
+<a class="button activo" title="Página siguiente" href="/mercados/empresas/ree/475/historico/22">&gt;</a>
+<a class="button inactivo" title="Página anterior" href="javascript:void(0);">&lt;</a>
+</div> 
+</div> 
+<script>            
+
+                    var stout = setTimeout(crea_options, 500);
+                </script>   
+</div>
+<div style="display: none;" class="" id="ficha_analisis">                     
+<div class="cab_articulo cab_noticia cab_analisis">
+<p class="cintillo">Análisis tecnico 24/07/2015</p>
+<h1 id="titulo_noticia">Para ver un tramo alcista de corto tendría que superar la cota de 74,2</h1>
+<div id="subtitulo_noticia" class="subtitulo">                                  
+<ul>
+<li>Significativas señales de giro para el valor, antes más presionado.</li>
+<li> Damos por terminada la situación de tendencia bajista anterior para entrar en un contexto más neutral, es decir, con menos influencia en tramos de corto plazo que pueden estructurarse en forma de rebotes o movimientos más impulsivos -por el momento no hay grandes señales de fortaleza en este sentido-. En todo caso, pasaría a alcista a corto plazo si supera la resistencia de 74,2, cota más significativa a día de hoy.</li>
+</ul>
+</div>                                                    
+<div class="subtitulo">    
+<ul class="enlaces estirar">
+<li>
+<a href="http://cincodias.com/mercados/empresas/ree/475/">
+REE EN CIFRAS
+</a>
+</li>                    
+</ul>
+</div>
+</div>
+    
+<div class="datos estirar">
+<p class="autor">Noesis</p>
+</div>
+    
+<div class="m-tendencia estirar" id="doble-column">
+<div class="c-mod">
+<div class="c-inner estirar">
+<div class="c-cont estirar">
+<div class="tendencia">
+<p class="sigue">Tendencia corto</p>                                     				</div>
+<div class="tendencia">
+<p class="sigue">Tendencia medio</p>
+</div>
+<div class="tendencia">
+<p class="sigue">Tendencia largo</p>
+</div>
+</div>
+</div>
+</div>
+</div>  
+<div class="m-asr estirar" id="doble-column">
+<div class="c-mod">
+<div class="c-inner estirar">
+<div class="c-cont estirar">
+<div class="a-s-r">
+<div class="in-asr estirar">
+<p>Soporte 1</p>
+<p class="green">72,35</p>
+</div>
+<div class="in-asr estirar">
+<p>Resistencia 1</p>
+<p class="green">72,86</p>
+</div>
+</div>
+<div class="a-s-r">
+<div class="in-asr estirar">
+<p>Soporte 2</p>
+<p class="green">67,95</p>
+</div>
+<div class="in-asr estirar">
+<p>Resistencia 2</p>
+<p class="green">74,20</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>   
+<div class="txt_noticia" id="cuerpo_noticia">
+<p>En lo referente al largo plazo, el valor ha abandonado la situación bajista previa para desembocar en un movimiento neutral, dejando la estructura de precios técnicamente más positiva. Una referencia importante la encontramos en 74,20 como resistencia. Si superara este nivel se sesgaría al alza en el corto y medio plazo, por lo que es un nivel crítico.</p>
+<div class="z-grafico">
+<div class="leyenda estirar">
+<p class="soporte">Soporte</p>
+<p class="resistencia">Resistencia</p>
+</div>
+<div class="mod_img">
+<img src="http://cd00.epimg.net/mercados/analisis_tecnicos/img/2015/07/24/REE.MC_001.gif">
+</div>
+<div class="leyenda estirar">
+<p class="soporte">Soporte</p>
+<p class="resistencia">Resistencia</p>
+</div>
+<div class="mod_img">
+<img src="http://cd00.epimg.net/mercados/analisis_tecnicos/img/2015/07/24/REE.MC_002.gif">
+</div>
+</div>  
+<div id="z-analisis">
+<div id="ficha_analisis" class="">
+<div class="analisis-tecnico">
+<div class="t-indicadores-tecnicos estirar">		
+<div class="t-indicadores">
+<table summary="" class="tabla1 tabla8">
+<caption>indicadores técnicos</caption>
+<thead>
+<tr>
+<th scope="col">Indicador</th>
+<th scope="col">Valor</th>
+<th scope="col" class="ult"> 
+<acronym title="Earnings Before Interest, Taxes, Depreciation, and  Amortization">Alcista / Bajista</acronym> </th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<th scope="row" class="row t-left">RSI 7</th>
+<td>52,94</td>
+<td class="t-right">
+<div class="cuadros-votos v0"> </div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="row t-left">RSI 21</th>	
+<td>52,60</td>
+<td class="t-right">
+<div class="cuadros-votos v0"> </div>
+</td>                                                
+</tr>                                                
+</tbody>
+</table>
+</div>
+</div>
+<div class="t-analisis-riesgo estirar">
+<div class="t-analisis">
+<table summary="" class="tabla1 tabla8">
+<caption>análisis de riesgo</caption>
+<thead>
+<tr>
+<th scope="col">Magnitud</th>
+<th scope="col">Valor</th>
+<th scope="col" class="izq">Comentario</th>
+<th scope="col" class="ult">Nivel de riesgo</th>
+</tr>
+</thead>
+<tbody><tr>
+<th scope="row" class="row t-left">Volatilidad</th>
+<td>22,07</td>
+<td class="izq">Media-Baja</td>
+<td class="t-right"><div class="cuadros-votos2 v2"> </div></td>
+</tr>
+<tr class="">
+<th scope="row" class="row t-left">Var</th>	
+<td>3,11</td>
+<td class="izq">Medio-Alto</td>
+<td class="t-right"><div class="cuadros-votos2 v4"></div></td>
+</tr>
+<tr class="">
+<th scope="row" class="row t-left">Beta</th>	
+<td>0,51</td>
+<td class="izq">Medio-Bajo</td>
+<td class="t-right"><div class="cuadros-votos2 v2"> </div></td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+</div> 
+</div>         
+</div> <!--- === z-analisis === -->         
+</div>
+          
+</div>
+<script>
+	  try
+	  {
+	    f_cargar_noticias_json('/tag/j/red_electrica/a/', 'REE', 'noticias_relacionadas_json', 4);
+	  }
+	  catch (error)
+	  {
+	    console.log("Error!!! en f_cargar_noticias_json");
+	    console.log("Description: " + error.message);
+	  }
+	  </script>
+<div id="noticias_relacionadas_json" class="tit-not-rel estirar"></div>
+<div id="noticiasRelacionadasAjax">
+<h2>Más noticias de mercados</h2>
+   
+<ul class="estirar">
+<li><a title="Ver noticia" href="/cincodias/2015/07/23/mercados/1437663476_033357.html">La gran empresa refinancia 21.750 millones a bajos tipos</a></li>	  
+<li><a title="Ver noticia" href="/cincodias/2015/07/24/mercados/1437753933_053623.html">Los fondos de Banco Madrid reciben 150 millones</a></li>	  
+<li><a title="Ver noticia" href="/cincodias/2015/07/24/mercados/1437743620_051216.html">La troika vuelve a Atenas: próximos pasos</a></li>	  
+<li><a title="Ver noticia" href="/cincodias/2015/07/24/mercados/1437737443_710106.html">La Socimi Trajano Iberia se estrena en Bolsa el 30 de julio</a></li>	  
+</ul>
+</div>
+</div>
+</div>
+<div id="lateral">
+<div id="doble-column" class="m-busca-bolsas estirar">
+<div class="c-mod">
+<div class="c-inner estirar">	
+<div class="c-cont estirar">
+<script src="http://cd00.epimg.net/js/buscador/mercados/suggest.js" language="JavaScript" type="text/javascript"></script>
+<div class="buscador_mercados">
+<p class="b-tit">Buscador de bolsas y mercados</p>
+<form>
+<input id="busqueda_buscador_mercados" type="search" class="temas" value="">
+<p class="mod_masinfo"><a title="Valores del Ibex35" href="/mercados/indices/ibex_35/582/">Ibex35</a></p>
+<p class="mod_masinfo"><a title="Valores del Nasdaq" href="/mercados/indices/nasdaq_100/4915/">Nasdaq</a></p>
+<p class="mod_masinfo"><a title="Cambio Eur / USD" href="/mercados/divisas/eurosxdolares_usa/41/">Eur / USD</a></p>
+</form>
+<script>new EPETSuggestMercadosElement(document.getElementById('busqueda_buscador_mercados'));</script>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="m-mejores estirar" id="doble-column">
+<div class="c-mod">
+<div class="c-inner estirar">	
+<div class="c-cont estirar">
+<h3 class="c-tit">Mejores y peores del mercado</h3>
+<div class="mod mejorpeor estirar">
+<ul class="estirar pestanias" id="ficha_MODMejoresPeores_pestanna">
+<li id="li_dia" class="selected">
+<a class="" onclick="changeTab('dia', 'ficha_MODMejoresPeores_pestanna');" href="javascript:void(0)" title="dia">Día</a>
+</li>
+<li id="li_semana" class="">
+<a class="" onclick="changeTab('semana', 'ficha_MODMejoresPeores_pestanna');" href="javascript:void(0)" title="semana">Semana</a>
+</li>
+<li id="li_mes" class="">
+<a class="" onclick="changeTab('mes', 'ficha_MODMejoresPeores_pestanna');" href="javascript:void(0)" title="mes">Mes</a>
+</li>
+<li id="li_anio" class="">
+<a class="" onclick="changeTab('anio', 'ficha_MODMejoresPeores_pestanna');" href="javascript:void(0)" title="anio">Año</a>
+</li>
+</ul>
+<div id="ficha_dia" style="display: block;">           
+<div class="mejor">
+<table summary="los mejores">
+<caption> Los mejores</caption>
+<tbody>
+<tr  class="tr_pos" >
+<th class="ticker" scope="row">
+<a href="/mercados/empresas/aena_sa/56974/" title="AENA SA">
+AENA SA
+</a>
+</th>
+<td>
+99,500
+</td>
+<td class="barra">
+<div class="estirar">
+<p>1,790 %</p>
+<div  class="b_pos" >
+<span style="width:100.00%" >&nbsp;</span>
+</div>
+</div>
+</td>
+</tr>
+<tr  class="tr_pos" >
+<th class="ticker" scope="row">
+<a href="/mercados/empresas/endesa/415/" title="ENDESA">
+ENDESA
+</a>
+</th>
+<td>
+18,375
+</td>
+<td class="barra">
+<div class="estirar">
+<p>1,688 %</p>
+<div  class="b_pos" >
+<span style="width:94.30%" >&nbsp;</span>
+</div>
+</div>
+</td>
+</tr>
+<tr  class="tr_pos" >
+<th class="ticker" scope="row">
+<a href="/mercados/empresas/amadeus/56564/" title="AMADEUS">
+AMADEUS
+</a>
+</th>
+<td>
+39,390
+</td>
+<td class="barra">
+<div class="estirar">
+<p>0,114 %</p>
+<div  class="b_pos" >
+<span style="width:6.37%" >&nbsp;</span>
+</div>
+</div>
+</td>
+</tr>
+<tr  class="tr_neg">
+<th class="ticker" scope="row">
+<a href="/mercados/empresas/grifols/56320/" title="GRIFOLS">
+GRIFOLS
+</a>
+</th>
+<td>
+38,705
+</td>
+<td class="barra">
+<div class="estirar">
+<p>-0,039 %</p>
+<div class="b_neg">
+<span style="width:2.18%" >&nbsp;</span>
+</div>
+</div>
+</td>
+</tr>
+<tr  class="tr_neg">
+<th class="ticker" scope="row">
+<a href="/mercados/empresas/abertis/54016/" title="ABERTIS">
+ABERTIS
+</a>
+</th>
+<td>
+15,035
+</td>
+<td class="barra">
+<div class="estirar">
+<p>-0,066 %</p>
+<div class="b_neg">
+<span style="width:3.69%" >&nbsp;</span>
+</div>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div class="peor">
+<table summary="los peores">
+<caption> Los peores </caption>
+<tbody>
+<tr  class="tr_neg" >
+<th class="ticker" scope="row">
+<a href="/mercados/empresas/bankinter/390/" title="BANKINTER">
+BANKINTER
+</a>
+</th>
+<td>
+7,037
+</td>
+<td class="barra">
+<div class="estirar">
+<p>-3,018 %</p>
+<div  class="b_neg" >
+<span style="width:40.64%">&nbsp;</span>
+</div>
+</div>
+</td>
+</tr>
+<tr  class="tr_neg" >
+<th class="ticker" scope="row">
+<a href="/mercados/empresas/fcc/423/" title="FCC">
+FCC
+</a>
+</th>
+<td>
+9,063
+</td>
+<td class="barra">
+<div class="estirar">
+<p>-3,245 %</p>
+<div  class="b_neg" >
+<span style="width:43.70%">&nbsp;</span>
+</div>
+</div>
+</td>
+</tr>
+<tr  class="tr_neg" >
+<th class="ticker" scope="row">
+<a href="/mercados/empresas/sabadell/56315/" title="SABADELL">
+SABADELL
+</a>
+</th>
+<td>
+2,104
+</td>
+<td class="barra">
+<div class="estirar">
+<p>-5,777 %</p>
+<div  class="b_neg" >
+<span style="width:77.79%">&nbsp;</span>
+</div>
+</div>
+</td>
+</tr>
+<tr  class="tr_neg" >
+<th class="ticker" scope="row">
+<a href="/mercados/empresas/mapfre/452/" title="MAPFRE">
+MAPFRE
+</a>
+</th>
+<td>
+3,023
+</td>
+<td class="barra">
+<div class="estirar">
+<p>-6,726 %</p>
+<div  class="b_neg" >
+<span style="width:90.57%">&nbsp;</span>
+</div>
+</div>
+</td>
+</tr>
+<tr  class="tr_neg" >
+<th class="ticker" scope="row">
+<a href="/mercados/empresas/abengoa_b/56592/" title="ABENGOA B">
+ABENGOA B
+</a>
+</th>
+<td>
+2,244
+</td>
+<td class="barra">
+<div class="estirar">
+<p>-7,426 %</p>
+<div  class="b_neg" >
+<span style="width:100.00%">&nbsp;</span>
+</div>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+</div>     
+</div>
+<div id="ficha_semana" style="display: none;">           
+<div class="mejor">
+<table summary="los mejores">
+<caption> Los mejores</caption>
+<tbody>
+<tr  class="tr_pos" >
+<th class="ticker" scope="row">
+<a href="/mercados/empresas/endesa/415/" title="ENDESA">
+ENDESA
+</a>
+</th>
+<td>
+18,375
+</td>
+<td class="barra">
+<div class="estirar">
+<p>4,049 %</p>
+<div  class="b_pos" >
+<span style="width:100.00%" >&nbsp;</span>
+</div>
+</div>
+</td>
+</tr>
+<tr  class="tr_pos" >
+<th class="ticker" scope="row">
+<a href="/mercados/empresas/bankia/56579/" title="BANKIA">
+BANKIA
+</a>
+</th>
+<td>
+1,214
+</td>
+<td class="barra">
+<div class="estirar">
+<p>3,495 %</p>
+<div  class="b_pos" >
+<span style="width:86.33%" >&nbsp;</span>
+</div>
+</div>
+</td>
+</tr>
+<tr  class="tr_pos" >
+<th class="ticker" scope="row">
+<a href="/mercados/empresas/indra/444/" title="INDRA">
+INDRA
+</a>
+</th>
+<td>
+11,190
+</td>
+<td class="barra">
+<div class="estirar">
+<p>2,473 %</p>
+<div  class="b_pos" >
+<span style="width:61.07%" >&nbsp;</span>
+</div>
+</div>
+</td>
+</tr>
+<tr  class="tr_pos" >
+<th class="ticker" scope="row">
+<a href="/mercados/empresas/gamesa/431/" title="GAMESA">
+GAMESA
+</a>
+</th>
+<td>
+16,330
+</td>
+<td class="barra">
+<div class="estirar">
+<p>1,429 %</p>
+<div  class="b_pos" >
+<span style="width:35.28%" >&nbsp;</span>
+</div>
+</div>
+</td>
+</tr>
+<tr  class="tr_pos" >
+<th class="ticker" scope="row">
+<a href="/mercados/empresas/amadeus/56564/" title="AMADEUS">
+AMADEUS
+</a>
+</th>
+<td>
+39,390
+</td>
+<td class="barra">
+<div class="estirar">
+<p>1,065 %</p>
+<div  class="b_pos" >
+<span style="width:26.30%" >&nbsp;</span>
+</div>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div class="peor">
+<table summary="los peores">
+<caption> Los peores </caption>
+<tbody>
+<tr  class="tr_neg" >
+<th class="ticker" scope="row">
+<a href="/mercados/empresas/repsol/476/" title="REPSOL">
+REPSOL
+</a>
+</th>
+<td>
+15,915
+</td>
+<td class="barra">
+<div class="estirar">
+<p>-5,042 %</p>
+<div  class="b_neg" >
+<span style="width:26.15%">&nbsp;</span>
+</div>
+</div>
+</td>
+</tr>
+<tr  class="tr_neg" >
+<th class="ticker" scope="row">
+<a href="/mercados/empresas/sabadell/56315/" title="SABADELL">
+SABADELL
+</a>
+</th>
+<td>
+2,104
+</td>
+<td class="barra">
+<div class="estirar">
+<p>-5,268 %</p>
+<div  class="b_neg" >
+<span style="width:27.32%">&nbsp;</span>
+</div>
+</div>
+</td>
+</tr>
+<tr  class="tr_neg" >
+<th class="ticker" scope="row">
+<a href="/mercados/empresas/sacyr/54015/" title="SACYR">
+SACYR
+</a>
+</th>
+<td>
+3,269
+</td>
+<td class="barra">
+<div class="estirar">
+<p>-7,655 %</p>
+<div  class="b_neg" >
+<span style="width:39.71%">&nbsp;</span>
+</div>
+</div>
+</td>
+</tr>
+<tr  class="tr_neg" >
+<th class="ticker" scope="row">
+<a href="/mercados/empresas/mapfre/452/" title="MAPFRE">
+MAPFRE
+</a>
+</th>
+<td>
+3,023
+</td>
+<td class="barra">
+<div class="estirar">
+<p>-9,680 %</p>
+<div  class="b_neg" >
+<span style="width:50.21%">&nbsp;</span>
+</div>
+</div>
+</td>
+</tr>
+<tr  class="tr_neg" >
+<th class="ticker" scope="row">
+<a href="/mercados/empresas/abengoa_b/56592/" title="ABENGOA B">
+ABENGOA B
+</a>
+</th>
+<td>
+2,244
+</td>
+<td class="barra">
+<div class="estirar">
+<p>-19,281 %</p>
+<div  class="b_neg" >
+<span style="width:100.00%">&nbsp;</span>
+</div>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+</div>     
+</div>
+<div id="ficha_mes" style="display: none;">           
+<div class="mejor">
+<table summary="los mejores">
+<caption> Los mejores</caption>
+<tbody>
+<tr  class="tr_pos" >
+<th class="ticker" scope="row">
+<a href="/mercados/empresas/indra/444/" title="INDRA">
+INDRA
+</a>
+</th>
+<td>
+11,190
+</td>
+<td class="barra">
+<div class="estirar">
+<p>21,314 %</p>
+<div  class="b_pos" >
+<span style="width:100.00%" >&nbsp;</span>
+</div>
+</div>
+</td>
+</tr>
+<tr  class="tr_pos" >
+<th class="ticker" scope="row">
+<a href="/mercados/empresas/ohl/462/" title="OHL">
+OHL
+</a>
+</th>
+<td>
+17,925
+</td>
+<td class="barra">
+<div class="estirar">
+<p>17,425 %</p>
+<div  class="b_pos" >
+<span style="width:81.76%" >&nbsp;</span>
+</div>
+</div>
+</td>
+</tr>
+<tr  class="tr_pos" >
+<th class="ticker" scope="row">
+<a href="/mercados/empresas/gamesa/431/" title="GAMESA">
+GAMESA
+</a>
+</th>
+<td>
+16,330
+</td>
+<td class="barra">
+<div class="estirar">
+<p>15,570 %</p>
+<div  class="b_pos" >
+<span style="width:73.05%" >&nbsp;</span>
+</div>
+</div>
+</td>
+</tr>
+<tr  class="tr_pos" >
+<th class="ticker" scope="row">
+<a href="/mercados/empresas/iag/56576/" title="IAG">
+IAG
+</a>
+</th>
+<td>
+7,966
+</td>
+<td class="barra">
+<div class="estirar">
+<p>14,192 %</p>
+<div  class="b_pos" >
+<span style="width:66.58%" >&nbsp;</span>
+</div>
+</div>
+</td>
+</tr>
+<tr  class="tr_pos" >
+<th class="ticker" scope="row">
+<a href="/mercados/empresas/amadeus/56564/" title="AMADEUS">
+AMADEUS
+</a>
+</th>
+<td>
+39,390
+</td>
+<td class="barra">
+<div class="estirar">
+<p>10,166 %</p>
+<div  class="b_pos" >
+<span style="width:47.70%" >&nbsp;</span>
+</div>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div class="peor">
+<table summary="los peores">
+<caption> Los peores </caption>
+<tbody>
+<tr  class="tr_neg" >
+<th class="ticker" scope="row">
+<a href="/mercados/empresas/sacyr/54015/" title="SACYR">
+SACYR
+</a>
+</th>
+<td>
+3,269
+</td>
+<td class="barra">
+<div class="estirar">
+<p>-3,740 %</p>
+<div  class="b_neg" >
+<span style="width:18.31%">&nbsp;</span>
+</div>
+</div>
+</td>
+</tr>
+<tr  class="tr_neg" >
+<th class="ticker" scope="row">
+<a href="/mercados/empresas/tecnicas_reunidas/56085/" title="TÉCNICAS REUNIDAS">
+TÉCNICAS REUNIDAS
+</a>
+</th>
+<td>
+43,960
+</td>
+<td class="barra">
+<div class="estirar">
+<p>-4,642 %</p>
+<div  class="b_neg" >
+<span style="width:22.73%">&nbsp;</span>
+</div>
+</div>
+</td>
+</tr>
+<tr  class="tr_neg" >
+<th class="ticker" scope="row">
+<a href="/mercados/empresas/acerinox/364/" title="ACERINOX">
+ACERINOX
+</a>
+</th>
+<td>
+11,265
+</td>
+<td class="barra">
+<div class="estirar">
+<p>-9,226 %</p>
+<div  class="b_neg" >
+<span style="width:45.17%">&nbsp;</span>
+</div>
+</div>
+</td>
+</tr>
+<tr  class="tr_neg" >
+<th class="ticker" scope="row">
+<a href="/mercados/empresas/arcelor/56086/" title="ARCELOR">
+ARCELOR
+</a>
+</th>
+<td>
+7,864
+</td>
+<td class="barra">
+<div class="estirar">
+<p>-10,157 %</p>
+<div  class="b_neg" >
+<span style="width:49.72%">&nbsp;</span>
+</div>
+</div>
+</td>
+</tr>
+<tr  class="tr_neg" >
+<th class="ticker" scope="row">
+<a href="/mercados/empresas/abengoa_b/56592/" title="ABENGOA B">
+ABENGOA B
+</a>
+</th>
+<td>
+2,244
+</td>
+<td class="barra">
+<div class="estirar">
+<p>-20,426 %</p>
+<div  class="b_neg" >
+<span style="width:100.00%">&nbsp;</span>
+</div>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+</div>     
+</div>
+<div id="ficha_anio" style="display: none;">           
+<div class="mejor">
+<table summary="los mejores">
+<caption> Los mejores</caption>
+<tbody>
+<tr  class="tr_pos" >
+<th class="ticker" scope="row">
+<a href="/mercados/empresas/gamesa/431/" title="GAMESA">
+GAMESA
+</a>
+</th>
+<td>
+16,330
+</td>
+<td class="barra">
+<div class="estirar">
+<p>116,034 %</p>
+<div  class="b_pos" >
+<span style="width:100.00%" >&nbsp;</span>
+</div>
+</div>
+</td>
+</tr>
+<tr  class="tr_pos" >
+<th class="ticker" scope="row">
+<a href="/mercados/empresas/indra/444/" title="INDRA">
+INDRA
+</a>
+</th>
+<td>
+11,190
+</td>
+<td class="barra">
+<div class="estirar">
+<p>38,662 %</p>
+<div  class="b_pos" >
+<span style="width:33.32%" >&nbsp;</span>
+</div>
+</div>
+</td>
+</tr>
+<tr  class="tr_pos" >
+<th class="ticker" scope="row">
+<a href="/mercados/empresas/acciona/376/" title="ACCIONA">
+ACCIONA
+</a>
+</th>
+<td>
+74,030
+</td>
+<td class="barra">
+<div class="estirar">
+<p>31,726 %</p>
+<div  class="b_pos" >
+<span style="width:27.34%" >&nbsp;</span>
+</div>
+</div>
+</td>
+</tr>
+<tr  class="tr_pos" >
+<th class="ticker" scope="row">
+<a href="/mercados/empresas/ferrovial/424/" title="FERROVIAL">
+FERROVIAL
+</a>
+</th>
+<td>
+21,385
+</td>
+<td class="barra">
+<div class="estirar">
+<p>30,198 %</p>
+<div  class="b_pos" >
+<span style="width:26.03%" >&nbsp;</span>
+</div>
+</div>
+</td>
+</tr>
+<tr  class="tr_pos" >
+<th class="ticker" scope="row">
+<a href="/mercados/empresas/inditex/446/" title="INDITEX">
+INDITEX
+</a>
+</th>
+<td>
+30,700
+</td>
+<td class="barra">
+<div class="estirar">
+<p>29,509 %</p>
+<div  class="b_pos" >
+<span style="width:25.43%" >&nbsp;</span>
+</div>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div class="peor">
+<table summary="los peores">
+<caption> Los peores </caption>
+<tbody>
+<tr  class="tr_neg" >
+<th class="ticker" scope="row">
+<a href="/mercados/empresas/sabadell/56315/" title="SABADELL">
+SABADELL
+</a>
+</th>
+<td>
+2,104
+</td>
+<td class="barra">
+<div class="estirar">
+<p>-4,580 %</p>
+<div  class="b_neg" >
+<span style="width:20.03%">&nbsp;</span>
+</div>
+</div>
+</td>
+</tr>
+<tr  class="tr_neg" >
+<th class="ticker" scope="row">
+<a href="/mercados/empresas/santander/479/" title="SANTANDER">
+SANTANDER
+</a>
+</th>
+<td>
+6,551
+</td>
+<td class="barra">
+<div class="estirar">
+<p>-6,361 %</p>
+<div  class="b_neg" >
+<span style="width:27.82%">&nbsp;</span>
+</div>
+</div>
+</td>
+</tr>
+<tr  class="tr_neg" >
+<th class="ticker" scope="row">
+<a href="/mercados/empresas/abertis/54016/" title="ABERTIS">
+ABERTIS
+</a>
+</th>
+<td>
+15,035
+</td>
+<td class="barra">
+<div class="estirar">
+<p>-8,491 %</p>
+<div  class="b_neg" >
+<span style="width:37.13%">&nbsp;</span>
+</div>
+</div>
+</td>
+</tr>
+<tr  class="tr_neg" >
+<th class="ticker" scope="row">
+<a href="/mercados/empresas/arcelor/56086/" title="ARCELOR">
+ARCELOR
+</a>
+</th>
+<td>
+7,864
+</td>
+<td class="barra">
+<div class="estirar">
+<p>-13,105 %</p>
+<div  class="b_neg" >
+<span style="width:57.31%">&nbsp;</span>
+</div>
+</div>
+</td>
+</tr>
+<tr  class="tr_neg" >
+<th class="ticker" scope="row">
+<a href="/mercados/empresas/fcc/423/" title="FCC">
+FCC
+</a>
+</th>
+<td>
+9,063
+</td>
+<td class="barra">
+<div class="estirar">
+<p>-22,868 %</p>
+<div  class="b_neg" >
+<span style="width:100.00%">&nbsp;</span>
+</div>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+</div>     
+</div>
+<p class="mod_masinfo"><a href="http://cincodias.com/mercados/indices/ibex_35/582/" title="ver más información relacionada">Ver</a></p>
+</div>
+</div>
+</div>
+</div>
+</div><div id='cds_gpt-MPU1' class="c_publicidad c_roba estirar">
+<script type='text/javascript'>
+		PBS.display('MPU1');
+	</script>
+</div>
+<div class="mod-clase01-prima estirar" id="doble-column" name="prima_riesgo">
+<div class="c-mod">
+<div class="c-inner estirar">
+<div class="c-cont estirar">
+<div class="p-head estirar">
+<h3 class="mod-clase01-H3">
+<a title="Prima de riesgo" href="/mercados/prima_riesgo/">Prima de riesgo</a>
+</h3>
+<p><a title="Actualizar" id="btn-refresh-prima-riesgo" onclick="carga_graficos_prima();" href="javascript:void(0);">Actualizar</a>
+</p>
+</div>
+<div class="mod-clase01-bgwin estirar">
+<div class="inner" id="prima_val">
+<div>
+<span class="mod-clase01-prima-dato01">Bono español (10 años)</span>
+<span class="mod-clase01-prima-cifra01">1,902%</span>
+</div>
+<div>
+<span class="mod-clase01-prima-dato02">Bono alemán (10 años)</span>
+<span class="mod-clase01-prima-cifra02">0,703%</span>
+</div>
+<div>
+<span class="mod-clase01-prima-res-dato01">
+<a href="/mercados/prima_riesgo/" title="Prima de riesgo">Prima de riesgo</a>
+</span>
+<span class="mod-clase01-prima-res-cifra01 disminuye ">119,9
+</span>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div id='cds_gpt-MPU2' class="c_publicidad c_roba estirar">
+<script type='text/javascript'>
+		PBS.display('MPU2');
+	</script>
+</div>
+<div class="bolsa-list estirar"><div class="bolsa-inner estirar">
+<div class="bolsa-item estirar">
+<p class="sube"><a href="/mercados/divisas/eurosxdolares_usa/41/" title="EUR x USD">EUR / USD</a></p>
+<div class="bolsa-info">
+<div class="bolsa-izq">
+<span class="sube">0,0460%</span>
+</div>
+<div class="bolsa-dch">
+<span>1,0987</span>
+<span class="sube">0,0005</span>
+</div>
+</div>
+</div>
+<div class="bolsa-item estirar">
+<p class="baja"><a href="/mercados/materias_primas/petroleo_brent/1/" title="Petroleo Brent">PETROLEO BRENT</a></p>
+<div class="bolsa-info">
+<div class="bolsa-izq">
+<span class="baja">-1,212%</span>
+</div>
+<div class="bolsa-dch">
+<span>54,600</span>
+<span class="baja">-0,670</span>
+</div>
+</div>
+</div>
+</div></div><div id='cds_gpt-MPU3' class="c_publicidad c_roba estirar">
+<script type='text/javascript'>
+		PBS.display('MPU3');
+	</script>
+</div>
+</div>
+</div>
+</div>
+<script type="text/javascript">
+	function mostrarOcultarAsociados() {
+		if(document.getElementById('mostrar_asociados').style.display == 'block') {
+			document.getElementById('mostrar_asociados').style.display = 'none';
+		}
+		else 	{
+			document.getElementById('mostrar_asociados').style.display = 'block';
+		}
+	}
+</script>
+<div id="pie">
+<div class="pie_sup estirar">
+<ul class="estirar">
+<li>
+<a rel="nofollow" href="http://www.cincodias.com/contacto/" title="Contacta con el Diario Económico Cinco Días">Contacto</a>
+</li>
+<li>
+<a rel="nofollow" href="http://cincodias.com/estaticos/aviso_legal/" title="Aviso Legal">Aviso Legal</a>
+</li>
+<li>
+<a rel="nofollow" href="http://cincodias.com/estaticos/politica_privacidad/" title="pol&iacute;tica de privacidad">Pol&iacute;tica de privacidad</a>
+</li>
+<li>
+<a title="Cinco Días en Prisa Noticias" href="http://www.prisanoticias.com/es/pagina/cinco-dias/" target="_blank">&iquest;Qui&eacute;nes somos?</a>
+</li>
+<li>
+<a title="Política de cookies" href="http://www.prisa.com/es/pagina/politica-de-cookies/" target="_blank">Pol&iacute;tica de cookies</a>
+</li>
+<li>
+<a title="Widgets CInco Días" href="http://www.cincodias.com/mi-cincodias/widgets/">Widgets</a>
+</li>
+<li class="rss">
+<a title="RSS de Cinco Días.com" href="http://cincodias.com/rss/">
+<abbr title="Really Simple Syndication">RSS</abbr> de cincod&iacute;as.com
+</a>
+</li>
+
+
+
+<li>
+<a title="Versi&oacute;n m&oacute;vil" href="http://cincodias.com/s/setMobile.html">Versi&oacute;n m&oacute;vil</a>
+</li>
+</ul>
+</div> 
+<div class="pie_inf estirar">
+<address>&copy; ESTRUCTURA GRUPO DE ESTUDIOS ECONÓMICOS S.A.- Miguel Yuste, 42 - 28037  Madrid [Espa&ntilde;a] - Tel. 91 538 61 00 </address>
+</div> 
+<div id="pie-comun">
+<div class="inside">
+<div class="medios-destacados"> <a title="Ir a la web del Grupo Prisa" target="_blank" href="http://www.prisa.com" id="pc_prisa">Una empresa de PRISA</a> <a title="medios Grupo Prisa" href="javascript:void(0);" id="pbt-medios">Medios Grupo Prisa</a>
+<ul class="primerafila estirar">
+<li><a title="EL PAÍS" target="_blank" href="http://elpais.com" id="pc_elpais">El PAÍS</a></li>
+<li><a title="Ir a la web de Los 40" target="_blank" href="http://los40.com" id="pc_los40">Música</a></li>
+<li><a title="Ir a la web de Santillana" target="_blank" href="http://www.gruposantillana.com" id="pc_santillana">Santillana</a></li>
+<li><a title="Ir a la web de Canal +" target="_blank" href="http://www.canalplus.es/" id="pc_canalplus">Canal +</a></li>
+<li><a title="Ir a la web de tvi" target="_blank" href="http://www.tvi.iol.pt" id="pc_tvi">tvi</a></li>
+<li><a title="Ir a la web de Cadena SER" target="_blank" href="http://cadenaser.com" id="pc_ser">Cadena SER</a></li>
+<li><a title="Ir a la web de AS" target="_blank" href="http://as.com" id="pc_as">AS.com</a></li>
+<li><a title="Ir a la web de ADN" target="_blank" href="http://www.adnradio.cl" id="pc_adn">adn</a></li>
+<li><a title="Ir a la web de Caracol" target="_blank" href="http://www.caracol.com.co/" id="pc_caracol">Caracol</a></li>
+</ul>
+<ul class="estirar">
+<li><a title="Ir a la web de Huffington Post" target="_blank" href="http://www.huffingtonpost.es/" id="pc_huffington">Huffington Post</a></li>
+<li><a title="Ir a la web de Sistema UNO" target="_blank" href="http://www.sistemauno.com/web/index.html" id="pc_uno">UNO</a></li>
+<li><a title="Ir a la web de wradio" target="_blank" href="http://www.wradio.com.co" id="pc_wradio">wradio</a></li>
+<li><a title="Ir a la web de Cinco Días" target="_blank" href="http://cincodias.com" id="pc_cincodias">Cinco Días</a> </li>
+<li><a title="Ir a la web de continental" target="_blank" href="http://www.continental.com.ar" id="pc_continental">continental</a></li>
+<li><a title="Ir a la web de Máxima FM" target="_blank" href="http://www.maxima.fm" id="pc_maxima">Máxima</a></li>
+<li><a title="Ir a la web de M80 radio" target="_blank" href="http://www.m80radio.com" id="pc_m80">M80 radio</a></li>
+<li><a title="Ir a la web de Cadena Dial" target="_blank" href="http://www.cadenadial.com" id="pc_dial">Cadena Dial</a></li>
+<li><a title="Ir a la web de Kebuena" target="_blank" href="http://www.kebuena.com.mx/" id="pc_kebuena">Kebuena</a></li>
+<li><a title="Ir a la web de Yes FM" target="_blank" href="http://www.yes.fm/" id="pc_yesfm">Yesfm</a></li>
+</ul>
+<ul class="estirar">
+<li><a title="Ir a la web de Richmond" target="_blank" href="http://www.richmondelt.com/" id="pc_richmond">Richmond</a></li>
+<li><a title="Ir a la web de Moderna" target="_blank" href="http://www.moderna.com.br/pagina-inicial.htm" id="pc_moderna">Moderna</a></li>
+<li><a title="Ir a la web de plural" target="_blank" href="http://www.pluralent.com" id="pc_plural">Plural</a></li>
+<li><a title="Ir a la web de tvi" target="_blank" href="http://www.tvi24.iol.pt/" id="pc_tvi24">tvi24</a></li>
+<li><a title="Ir a la web de Cinemania" target="_blank" href="http://cinemania.es" id="pc_cinemania">Cinemania</a></li>
+<li><a title="Ir a la web de Rolling Stone" target="_blank" href="http://rollingstone.es" id="pc_rollingstone">Rolling Stone</a></li>
+<li><a title="Ir a la web de Tareas y Más" target="_blank" href="http://www.tareasymas.es/" id="pc_tareasymas">Tareas y Más</a></li>
+<li><a title="Ir a la web de Meristation" target="_blank" href="http://www.meristation.com/" id="pc_meristation">Meristation</a></li>
+<li><a title="Ir a la web de El Viajero" target="_blank" href="http://elviajero.elpais.com" id="pc_elviajero">El Viajero</a></li>
+<li><a title="Clasificados EL PAÍS" target="_blank" href="http://servicios.elpais.com/clasificados/" id="pc_clasificados">Anuncios Clasificados</a></li>
+</ul>
+</div>
+
+<div id="capa-webs-grupo" class="muestra-medios">
+
+<div class="capa-medios">
+<div class="cabecera-capa estirar">
+<h3>Webs de PRISA</h3>
+<a id="cierrame" title="cerrar" href="javascript:void(0);">cerrar ventana</a> </div>
+
+<ul class="webs-grupo">
+<li class="webs-grupo-col">
+<ul>
+<li class="tit-principal">SANTILLANA</li>
+<li class="encabezado"><a title="SANTILLANA Global" target="_blank" rel="nofollow" href="http://www.santillana.com ">SANTILLANA Global</a></li>
+<li class="tit-seccion"><a title="PRISA Ediciones" target="_blank" rel="nofollow" href="http://www.prisaediciones.com/ ">PRISA Ediciones</a></li>
+<li><a title="Alfaguara" target="_blank" rel="nofollow" href="http://www.alfaguara.com/">Alfaguara</a></li>
+<li><a title="Alfaguara Infantil" target="_blank" rel="nofollow" href="http://www.librosalfaguarainfantil.com/">Alfaguara Infantil</a></li>
+<li><a title="Alfaguara Juvenil" target="_blank" rel="nofollow" href="http://www.librosalfaguarajuvenil.com/">Alfaguara Juvenil</a></li>
+<li><a title="Aguilar" target="_blank" rel="nofollow" href="http://www.librosaguilar.com/">Aguilar</a></li>
+<li><a title="El País-Aguilar" target="_blank" rel="nofollow" href="http://www.elpaisaguilar.es/">El País-Aguilar</a></li>
+<li><a title="Suma de Letras" target="_blank" rel="nofollow" href="http://www.sumadeletras.com/">Suma</a></li>
+<li><a title="Editora Objetiva" target="_blank" rel="nofollow" href="http://www.objetiva.com.br/">Objetiva</a></li>
+<li><a title="Objectiva" target="_blank" rel="nofollow" href="http://www.objectiva.pt/objectiva.aspx">Objectiva</a></li>
+<li><a title="Punto de Lectura" target="_blank" rel="nofollow" href="http://www.puntodelectura.com/">Punto de Lectura</a></li>
+<li><a title="Taurus" target="_blank" rel="nofollow" href="http://www.editorialtaurus.com/">Taurus</a></li>
+<li class="encabezado subrayado"><a title="Richmond Publishing" target="_blank" rel="nofollow" href="http://www.richmondelt.com/">Richmond</a></li>
+<li class="tit-seccion">SANTILLANA</li>
+<li><a title="Argentina" target="_blank" rel="nofollow" href="http://www.santillana.com.ar">Argentina</a></li>
+<li><a title="Bolivia" target="_blank" rel="nofollow" href="http://www.santillana.com.bo/">Bolivia</a></li>
+<li><a title="Brasil" target="_blank" rel="nofollow" href="http://www.santillana.com.br/">Brasil</a></li>
+<li><a title="Chile" target="_blank" rel="nofollow" href="http://www.santillana.cl/">Chile</a></li>
+<li><a title="Colombia" target="_blank" rel="nofollow" href="http://www.santillana.com.co/websantillana/">Colombia</a></li>
+<li><a title="Costa Rica" target="_blank" rel="nofollow" href="http://www.santillana.cr/">Costa Rica</a></li>
+
+<li><a title="El Salvador" target="_blank" rel="nofollow" href="http://www.santillana.com.sv/">El Salvador</a></li>
+<li><a title="España" target="_blank" rel="nofollow" href="http://www.santillana.es/">España</a></li>
+<li><a title="Estados Unidos" target="_blank" rel="nofollow" href="http://www.santillanausa.com/">Estados Unidos</a></li>
+<li><a title="Guatemala" target="_blank" rel="nofollow" href="http://www.santillana.com.gt/">Guatemala</a></li>
+<li><a title="Honduras" target="_blank" rel="nofollow" href="http://www.santillana.com.hn/">Honduras</a></li>
+<li><a title="México" target="_blank" rel="nofollow" href="http://www.santillana.com.mx/">México</a></li>
+<li><a title="Paraguay" target="_blank" rel="nofollow" href="http://www.santillana.com.py/">Paraguay</a></li>
+<li><a title="Perú" target="_blank" rel="nofollow" href="http://www.santillana.com.pe/">Perú</a></li>
+<li><a title="Portugal" target="_blank" rel="nofollow" href="http://www.santillana.pt/">Portugal</a></li>
+
+<li><a title="Rep. Dominicana" target="_blank" rel="nofollow" href="http://www.santillana.com.do/">Rep. Dominicana</a></li>
+<li><a title="Uruguay" target="_blank" rel="nofollow" href="http://www.santillana.com.uy/">Uruguay</a></li>
+<li><a title="Venezuela" target="_blank" rel="nofollow" href="http://www.santillana.com.ve/">Venezuela</a></li>
+
+<li class="encabezado subrayado"><a title="SANTILLANA FRANCES" target="_blank" rel="nofollow" href="http://www.santillanafrancais.com/accueil/default.htm">SANTILLANA FRANCES</a></li>
+<li class="encabezado subrayado"><a title="Sistema UNO de Ensino" target="_blank" rel="nofollow" href="http://www.sistemauno.com/web/inicio.html">Sistema UNO</a></li>
+<li class="encabezado subrayado"><a title="IneveryCREAP" target="_blank" rel="nofollow" href="http://ineverycrea.net/">IneveryCREA</a></li>
+<li class="tit-seccion">Fundación Santillana</li>
+
+<li><a title="España" target="_blank" rel="nofollow" href="http://www.fundacionsantillana.com/">España</a></li>
+<li><a title="Colombia" target="_blank" rel="nofollow" href="http://www.fundacionsantillana.org.co/">Colombia</a></li>
+<li><a title="Seminario de Narrativa y Periodismo" target="_blank" rel="nofollow" href="http://www.seminariodenarrativayperiodismo.com/">Seminario de Narrativa y Periodismo</a></li>
+<li><a title="Essay &amp; Science" target="_blank" rel="nofollow" href="http://www.essayandscience.com">Essay &amp; Science</a></li>
+<li><a title="Premio Viva Lectura" target="_blank" rel="nofollow" href="http://www.premiovivalectura.org.ar/">Premio Viva Lectura</a></li>
+
+
+<li><a title="El Boomeran(g)" target="_blank" rel="nofollow" href="http://www.elboomeran.com/">El Boomeran(g)</a></li>
+<li class="encabezado subrayado"><a title="Tareas y mas" target="_blank" rel="nofollow" href="http://www.tareasymas.es/">Tareas y más</a></li>
+</ul>
+</li>
+<li class="webs-grupo-col">
+<ul>
+<li class="tit-principal">PRISA NOTICIAS</li>
+<li class="encabezado"><a title="PRISA Noticias" target="_blank" rel="nofollow" href="http://www.prisanoticias.com ">PRISA Noticias</a></li>
+<li class="tit-seccion"><a title="EL PAÍS" rel="nofollow" target="_blank" href="http://elpais.com/">EL PAÍS</a></li>
+<li><a title="Blogs EL PAÍS" target="_blank" rel="nofollow" href="http://blogs.elpais.com/">Blogs EL PAÍS</a></li>
+<li><a title="Eskup EL PAÍS" target="_blank" rel="nofollow" href="http://eskup.elpais.com/">Eskup EL PAÍS</a></li>
+<li><a title="Servicios EL PAÍS" target="_blank" rel="nofollow" href="http://servicios.elpais.com/">Servicios EL PAÍS</a></li>
+
+<li><a title="Club de vinos EL PAÍS" target="_blank" rel="nofollow" href="http://www.elpaisclubdevinos.com/">Club de vinos EL PAÍS</a></li>
+<li><a title="Escuela de Periodismo" target="_blank" rel="nofollow" href="http://escuela.elpais.com/">Escuela de Periodismo</a></li>
+<li><a title="EL PAÍS de los Estudiantes" target="_blank" rel="nofollow" href="http://estudiantes.elpais.com/ ">EL PAÍS de los Estudiantes</a></li>
+<li><a title="S Moda" target="_blank" rel="nofollow" href="http://smoda.elpais.com/">S Moda</a></li>
+<li><a title="El Viajero" target="_blank" rel="nofollow" href="http://elviajero.elpais.com/">El Viajero</a></li>
+<li><a title="Clasificados EL PAÍS" target="_blank" rel="nofollow" href="http://servicios.elpais.com/clasificados/">Clasificados EL PAÍS</a></li>
+<li class="tit-seccion"><a title="Diario Deportivo" target="_blank" rel="nofollow" href="http://as.com/">AS</a></li>
+<li><a href="http://chile.as.com/chile/?nrd=1" target="_blank" title="AS Chile">AS Chile</a></li>
+<li><a href="http://colombia.as.com/colombia/?nrd=1" target="_blank" title="AS Colombia">AS Colombia</a></li>
+<li><a target="_blank" rel="nofollow" href="http://as.com/videos/" title="Videos deportivos - ASTV"> ASTV</a></li>
+<li><a target="_blank" rel="nofollow" href="http://megastore.as.com" title="Megastore"> Megastore</a></li>
+<li><a target="_blank" rel="nofollow" href="http://www.lasapuestasdeas.com" title="Apuestas">Apuestas</a></li>
+<li><a target="_blank" rel="nofollow" href="http://www.elpokerdeas.com" title="Poker">Poker</a></li>
+<li><a target="_blank" rel="nofollow" href="http://motormercado.as.com" title="Motormercado">Motormercado</a></li>
+<li><a target="_blank" rel="nofollow" href="http://www.dalealplay.com/" title="Dalealplay">Dalealplay</a></li>
+<li><a target="_blank" rel="nofollow" href="http://resultados.as.com/" title="Resultados deportivos">Resultados deportivos</a></li>
+<li class="encabezado subrayado"><a title="Diario Económico" target="_blank" href="http://cincodias.com/">Cinco Días</a></li>
+<li class="tit-seccion"><a title="El PAÍS" target="_blank" rel="nofollow" href="http://www.prisarevistas.com">PRISA Revistas</a></li>
+<li><a title="Cinemanía" target="_blank" rel="nofollow" href="http://cinemania.es/">Cinemanía</a></li>
+
+<li class="encabezado"><a href="http://www.meristation.com/" rel="nofollow" target="_blank" title="Meristation">Meristation</a></li>
+<li class="encabezado subrayado"><a title="Huffington Post" rel="nofollow" target="_blank" href="http://www.huffingtonpost.es/">El Huffington Post</a></li>
+</ul>
+</li>
+
+<li class="webs-grupo-col">
+<ul>
+<li class="tit-principal">PRISA RADIO</li>
+<li class="encabezado"><a title="PRISA Radio" target="_blank" rel="nofollow" href="http://www.prisaradio.com">PRISA Radio</a></li>
+<li class="tit-seccion">RADIO HABLADA</li>
+<li class="nolink">ADN Radio</li>
+<li class="sub"><a title="ADN Chile" target="_blank" rel="nofollow" href="http://www.adnradio.cl/">Chile</a></li>
+<li class="sub"><a title="ADN Costa Rica" target="_blank" rel="nofollow" href="http://www.adn.fm/">Costa Rica</a></li>
+<li class="nolink"><a title="Cadena SER" target="_blank" rel="nofollow" href="http://www.cadenaser.com/">Cadena SER</a></li>
+<li class="nolink"><a title="Caracol Radio (Colombia)" rel="nofollow" target="_blank" href="http://www.caracol.com.co/">Caracol Radio</a></li>
+<li class="nolink"><a title="Caracol 1260 (Miami)" target="_blank" rel="nofollow" href="http://www.caracol1260.com/">Caracol 1260</a></li>
+<li class="nolink"><a title="Continental" target="_blank" rel="nofollow" href="http://www.continental.com.ar/">Continental</a></li>
+<li class="nolink">W Radio</li>
+<li class="sub"><a title="EE UU" target="_blank" rel="nofollow" href="http://www.wradio690.com/">EE UU</a></li>
+<li class="sub"><a title="Colombia" target="_blank" rel="nofollow" href="http://www.wradio.com.co/">Colombia</a></li>
+<li class="sub"><a title="México" target="_blank" rel="nofollow" href="http://www.wradio.com.mx/">México</a></li>
+<li class="tit-seccion">RADIO MUSICAL</li>
+<li class="nolink">40 Principales</li>
+<li class="sub"><a href="http://los40.com.ar/" rel="nofollow" target="_blank" title="Argentina">Argentina</a></li>
+<li class="sub"><a title="Chile" target="_blank" rel="nofollow" href="http://los40.cl/">Chile</a></li>
+<li class="sub"><a title="Colombia" target="_blank" rel="nofollow" href="http://los40.com.co/">Colombia</a></li>
+<li class="sub"><a title="Costa Rica" target="_blank" rel="nofollow" href="http://www.los40.co.cr/">Costa Rica</a></li>
+<li class="sub"><a title="Ecuador" target="_blank" rel="nofollow" href="http://www.los40.com.ec/">Ecuador</a></li>
+<li class="sub"><a title="España" target="_blank" rel="nofollow" href="http://www.los40.com">España</a></li>
+<li class="sub"><a title="Guatemala" target="_blank" rel="nofollow" href="http://www.los40.com.gt/">Guatemala</a></li>
+<li class="sub"><a title="México" target="_blank" rel="nofollow" href="http://www.los40.com.mx/">México</a></li>
+<li class="sub"><a title="Panamá" target="_blank" rel="nofollow" href="http://los40.com.pa/">Panamá</a></li>
+<li class="nolink">Bésame</li>
+<li class="sub"><a title="Colombia" target="_blank" rel="nofollow" href="http://www.besame.fm/">Colombia</a></li>
+
+<li class="sub"><a title="Costa Rica" target="_blank" rel="nofollow" href="http://www.besame.co.cr/">Costa Rica</a></li>
+<li class="sub"><a title="México" target="_blank" rel="nofollow" href="http://www.besame.com.mx/">México</a></li>
+<li class="nolink"><a title="Cadena DIAL" target="_blank" rel="nofollow" href="http://www.cadenadial.com/">Cadena DIAL</a></li>
+
+<li class="nolink"><a title="Colorín ColorRadio" target="_blank" rel="nofollow" href="http://www.colorincolorradio.com/">Colorín ColorRadio</a></li>
+<li class="nolink"><a title="Concierto" target="_blank" rel="nofollow" href="http://www.concierto.cl/">Concierto</a></li>
+<li class="nolink"><a title="Corazón" target="_blank" rel="nofollow" href="http://www.corazon.cl/">Corazón</a></li>
+<li class="nolink"><a title="FMDOS" target="_blank" rel="nofollow" href="http://www.fmdos.cl/">FMDOS</a></li>
+<li class="nolink"><a title="Futuro" target="_blank" rel="nofollow" href="http://www.futuro.cl/">Futuro</a></li>
+<li class="nolink"><a title="HJCK" target="_blank" rel="nofollow" href="http://www.hjck.com/">HJCK</a></li>
+<li class="nolink"><a title="Ibero Americana Radio Chile" target="_blank" rel="nofollow" href="http://www.iarc.cl/">Ibero Americana Radio Chile</a></li>
+<li class="nolink"><a title="KeBuena" target="_blank" rel="nofollow" href="http://www.kebuena.com.mx/">KeBuena</a></li>
+<li class="nolink"><a title="Besame Colombia" target="_blank" rel="nofollow" href="http://www.lavallenata.com/">Bésame Colombia</a></li>
+<li class="nolink"><a title="Máxima FM" target="_blank" rel="nofollow" href="http://www.maxima.fm/">Máxima FM</a></li>
+<li class="nolink"><a title="M80 Radio" target="_blank" rel="nofollow" href="http://www.m80radio.com/">M80 Radio</a></li>
+<li class="nolink"><a title="Oxígeno" target="_blank" rel="nofollow" href="http://www.oxigeno.fm/">Oxígeno</a></li>
+<li class="nolink"><a title="Pudahuel" target="_blank" rel="nofollow" href="http://www.pudahuel.cl/">Pudahuel</a></li>
+<li class="nolink"><a title="Radioacktiva (Colombia)" target="_blank" rel="nofollow" href="http://www.radioacktiva.com/">Radioacktiva </a></li>
+<li class="nolink"><a title="Radioactiva (Chile)" target="_blank" rel="nofollow" href="http://www.radioactiva.cl/">Radioactiva </a></li>
+<li class="nolink"><a title="Radio Imagina" target="_blank" rel="nofollow" href="http://www.radioimagina.cl/">Radio Imagina</a></li>
+<li class="nolink"><a title="Radio Uno" target="_blank" rel="nofollow" href="http://www.radiounochile.cl/">Radio Uno</a></li>
+<li class="nolink"><a title="Radiolé" target="_blank" rel="nofollow" href="http://www.radiole.com/">Radiolé</a></li>
+<li class="nolink"><a title="Rock&amp;Pop" target="_blank" rel="nofollow" href="http://www.rockandpop.cl/">Rock&amp;Pop</a></li>
+<li class="nolink"><a title="Tropicana" target="_blank" rel="nofollow" href="http://www.tropicanafm.com/">Tropicana</a></li>
+<li class="tit-seccion">MÚSICA</li>
+<li class="nolink"><a href="http://herziostore.com/onstage/" rel="nofollow" target="_blank" title="Merchandising On Stage">Merchandising On Stage</a></li>
+<li class="nolink"><a href="http://www.planetevents.es/" rel="nofollow" target="_blank" title="Planet Events">Planet Events</a></li>
+<li class="nolink"><a title="RLM" target="_blank" rel="nofollow" href="http://www.rlm.es">RLM</a></li>
+</ul>
+</li>
+
+<li class="webs-grupo-col">
+<ul>
+<li class="tit-principal">PRISA TV</li>
+<li class="encabezado"><a title="PRISA TV" target="_blank" rel="nofollow" href="http://www.prisatv.com">PRISA TV</a></li>
+<li class="nolink"><a title="CANAL+" target="_blank" rel="nofollow" href="http://www.plus.es/">CANAL+</a></li>
+<li class="nolink"><a title="YOMVI" target="_blank" rel="nofollow" href="http://canalplus.es/yomvi/">YOMVI</a></li>
+<li class="nolink"><a title="Distribución de contenidos" target="_blank" rel="nofollow" href="http://sales.prisatv.es/indice">PRISA TV Distribución de contenidos</a></li>
+<li class="tit-seccion"><a title="MEDIA CAPITAL TV" target="_blank" rel="nofollow" href="http://www.mediacapital.pt/ ">MEDIA CAPITAL</a></li>
+<li class="tit-seccion dos">TV</li>
+<li><a title="TVI" target="_blank" rel="nofollow" href="http://www.tvi.iol.pt/">TVI</a></li>
+<li><a title="TVI24" target="_blank" rel="nofollow" href="http://www.tvi24.iol.pt/">TVI24</a></li>
+
+<li class="tit-seccion dos">PRODUCCIÓN AUDIOVISUAL</li>
+<li class="nolink">Plural Entertainment</li>
+<li class="sub"><a title="España" target="_blank" rel="nofollow" href="http://www.pluralent.com/">España</a></li>
+<li class="sub"><a title="Portugal" target="_blank" rel="nofollow" href="http://www.pluralportugal.pt/">Portugal</a></li>
+<li class="tit-seccion dos">RADIO</li>
+<li><a title="Cotonete" target="_blank" rel="nofollow" href="http://www.cotonete.iol.pt">Cotonete</a></li>
+<li><a title="Radio Comercial" target="_blank" rel="nofollow" href="http://www.radiocomercial.iol.pt ">Radio Comercial</a></li>
+<li><a title="M80" target="_blank" rel="nofollow" href="http://www.m80.iol.pt">M80</a></li>
+<li><a title="Cidade FM" target="_blank" rel="nofollow" href="http://www.cidadefm.iol.pt">Cidade FM</a></li>
+
+<li><a title="Vodafone FM " target="_blank" rel="nofollow" href="http://www.vodafone.fm/ ">Vodafone FM </a></li>
+<li class="tit-seccion dos">REVISTAS</li>
+<li><a title="Revista de Vinhos" target="_blank" rel="nofollow" href="http://www.revistadevinhos.iol.pt/">Revista de Vinhos</a></li>
+<li class="tit-seccion dos">DIGITAL</li>
+<li><a title="IOL" target="_blank" rel="nofollow" href="http://www.iol.pt">IOL</a> </li>
+
+<li><a title="Autoportal" target="_blank" rel="nofollow" href="http://www.autoportal.iol.pt/">Autoportal</a></li>
+<li><a title="Maisfutebol" target="_blank" rel="nofollow" href="http://www.maisfutebol.iol.pt/">Maisfutebol</a></li>
+<li class="tit-seccion"><a title="V-ME" target="_blank" rel="nofollow" href="http://www.vmetv.com/">V-ME</a></li>
+</ul>
+</li>
+
+<li class="webs-grupo-col ultimo">
+<ul>
+<li class="tit-principal">PRISA DIGITAL</li>
+<li class="encabezado"><a title="11824" target="_blank" rel="nofollow" href="http://www.11824.es">11824</a></li>
+<li class="tit-principal">COMERCIAL Y MARKETING</li>
+<li class="encabezado"><a title="PRISA Brand Solutions" target="_blank" rel="nofollow" href="http://www.prisabs.com/">PRISA Brand Solutions</a></li>
+</ul>
+</li>
+
+</ul>
+
+
+<div class="pc-sombreado"> <a id="cierrame2" href="javascript:void(0);">cerrar</a> </div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+</div>
+<script type="text/javascript">
+	
+	document.getElementById('pbt-medios').onclick = function() { document.getElementById("capa-webs-grupo").className = 'muestra-medios activado'; }
+	document.getElementById('cierrame').onclick = function() { document.getElementById("capa-webs-grupo").className = 'muestra-medios desactivado'; }
+	document.getElementById('cierrame2').onclick = function() { document.getElementById("capa-webs-grupo").className = 'muestra-medios desactivado'; }
+
+</script>
+</body>
+</html>

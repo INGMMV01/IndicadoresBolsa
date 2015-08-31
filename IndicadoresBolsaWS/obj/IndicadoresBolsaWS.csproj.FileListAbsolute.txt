@@ -1,0 +1,9 @@
+C:\Aplicaciones\Prueba\IndicadoresBolsa\IndicadoresBolsaWS\obj\Debug\ResolveAssemblyReference.cache
+C:\Aplicaciones\Prueba\IndicadoresBolsa\IndicadoresBolsaWS\bin\IndicadoresBolsaWS.dll
+C:\Aplicaciones\Prueba\IndicadoresBolsa\IndicadoresBolsaWS\bin\IndicadoresBolsaWS.pdb
+C:\Aplicaciones\Prueba\IndicadoresBolsa\IndicadoresBolsaWS\bin\Kitos.Bolsa.Informes.dll
+C:\Aplicaciones\Prueba\IndicadoresBolsa\IndicadoresBolsaWS\bin\Kitos.Bolsa.ObjetosBolsa.dll
+C:\Aplicaciones\Prueba\IndicadoresBolsa\IndicadoresBolsaWS\bin\Kitos.Bolsa.Informes.pdb
+C:\Aplicaciones\Prueba\IndicadoresBolsa\IndicadoresBolsaWS\bin\Kitos.Bolsa.ObjetosBolsa.pdb
+C:\Aplicaciones\Prueba\IndicadoresBolsa\IndicadoresBolsaWS\obj\Debug\IndicadoresBolsaWS.dll
+C:\Aplicaciones\Prueba\IndicadoresBolsa\IndicadoresBolsaWS\obj\Debug\IndicadoresBolsaWS.pdb

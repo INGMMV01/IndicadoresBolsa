@@ -1,0 +1,69 @@
+﻿<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.50727</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{BFB0D14B-DD19-4BF6-9337-E945E610D3A9}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Kitos.Bolsa.ObjetosBolsa</RootNamespace>
+    <AssemblyName>Kitos.Bolsa.ObjetosBolsa</AssemblyName>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="DatoPersist\DatoPersistente.cs" />
+    <Compile Include="Datos\AhorroMinAnho.cs" />
+    <Compile Include="Datos\AhorroObjetivo.cs" />
+    <Compile Include="Datos\AhorroTendenciaCorto.cs" />
+    <Compile Include="Datos\AhorroTendenciaLargo.cs" />
+    <Compile Include="Datos\AhorroUltimo.cs" />
+    <Compile Include="Datos\CincoDiasBrujula.cs" />
+    <Compile Include="Datos\CincoDiasObjetivo.cs" />
+    <Compile Include="Datos\CincoDiasRecomendacion.cs" />
+    <Compile Include="Datos\AhorroSoporte1.cs" />
+    <Compile Include="Datos\AhorroSoporte2.cs" />
+    <Compile Include="Datos\AhorroResistencia1.cs" />
+    <Compile Include="Datos\AhorroResistencia2.cs" />
+    <Compile Include="Datos\Dato.cs" />
+    <Compile Include="Datos\DatoWeb.cs" />
+    <Compile Include="Datos\Potencial.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Datos\SelfBankObjetivo.cs" />
+    <Compile Include="Datos\SelfbankValoracion.cs" />
+    <Compile Include="Util\CacheFichero.cs" />
+    <Compile Include="Util\URL.cs" />
+    <Compile Include="Valor\FactoryValor.cs" />
+    <Compile Include="Valor\Valor.cs" />
+    <Compile Include="Valor\ValorEng.cs" />
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

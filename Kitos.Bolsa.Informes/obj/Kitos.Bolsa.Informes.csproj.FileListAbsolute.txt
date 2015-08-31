@@ -1,0 +1,36 @@
+C:\Aplicaciones\IndicadoresBolsa\Kitos.Bolsa.Informes\obj\Debug\ResolveAssemblyReference.cache
+C:\Aplicaciones\IndicadoresBolsa\Kitos.Bolsa.Informes\obj\Debug\Kitos.Bolsa.Informes.RUTAS.resources
+C:\Aplicaciones\IndicadoresBolsa\Kitos.Bolsa.Informes\obj\Debug\Kitos.Bolsa.Informes.csproj.GenerateResource.Cache
+C:\Aplicaciones\IndicadoresBolsa\Kitos.Bolsa.Informes\bin\Debug\Kitos.Bolsa.Informes.dll
+C:\Aplicaciones\IndicadoresBolsa\Kitos.Bolsa.Informes\bin\Debug\Kitos.Bolsa.Informes.pdb
+C:\Aplicaciones\IndicadoresBolsa\Kitos.Bolsa.Informes\bin\Debug\Kitos.Bolsa.ObjetosBolsa.dll
+C:\Aplicaciones\IndicadoresBolsa\Kitos.Bolsa.Informes\bin\Debug\Kitos.Bolsa.ObjetosBolsa.pdb
+C:\Aplicaciones\IndicadoresBolsa\Kitos.Bolsa.Informes\obj\Debug\Kitos.Bolsa.Informes.dll
+C:\Aplicaciones\IndicadoresBolsa\Kitos.Bolsa.Informes\obj\Debug\Kitos.Bolsa.Informes.pdb
+C:\Aplicaciones\Prueba\IndicadoresBolsa\Kitos.Bolsa.Informes\bin\Debug\Kitos.Bolsa.Informes.dll
+C:\Aplicaciones\Prueba\IndicadoresBolsa\Kitos.Bolsa.Informes\bin\Debug\Kitos.Bolsa.Informes.pdb
+C:\Aplicaciones\Prueba\IndicadoresBolsa\Kitos.Bolsa.Informes\bin\Debug\Kitos.Bolsa.ObjetosBolsa.dll
+C:\Aplicaciones\Prueba\IndicadoresBolsa\Kitos.Bolsa.Informes\bin\Debug\Kitos.Bolsa.ObjetosBolsa.pdb
+C:\Aplicaciones\Prueba\IndicadoresBolsa\Kitos.Bolsa.Informes\obj\Debug\ResolveAssemblyReference.cache
+C:\Aplicaciones\Prueba\IndicadoresBolsa\Kitos.Bolsa.Informes\obj\Debug\Kitos.Bolsa.Informes.RUTAS.resources
+C:\Aplicaciones\Prueba\IndicadoresBolsa\Kitos.Bolsa.Informes\obj\Debug\Kitos.Bolsa.Informes.csproj.GenerateResource.Cache
+C:\Aplicaciones\Prueba\IndicadoresBolsa\Kitos.Bolsa.Informes\obj\Debug\Kitos.Bolsa.Informes.dll
+C:\Aplicaciones\Prueba\IndicadoresBolsa\Kitos.Bolsa.Informes\obj\Debug\Kitos.Bolsa.Informes.pdb
+C:\Aplicaciones\Prueba\IndicadoresBolsa\Kitos.Bolsa.Informes\bin\Release\Kitos.Bolsa.Informes.dll
+C:\Aplicaciones\Prueba\IndicadoresBolsa\Kitos.Bolsa.Informes\bin\Release\Kitos.Bolsa.Informes.pdb
+C:\Aplicaciones\Prueba\IndicadoresBolsa\Kitos.Bolsa.Informes\bin\Release\Kitos.Bolsa.ObjetosBolsa.dll
+C:\Aplicaciones\Prueba\IndicadoresBolsa\Kitos.Bolsa.Informes\bin\Release\Kitos.Bolsa.ObjetosBolsa.pdb
+C:\Aplicaciones\Prueba\IndicadoresBolsa\Kitos.Bolsa.Informes\obj\Release\ResolveAssemblyReference.cache
+C:\Aplicaciones\Prueba\IndicadoresBolsa\Kitos.Bolsa.Informes\obj\Release\Kitos.Bolsa.Informes.RUTAS.resources
+C:\Aplicaciones\Prueba\IndicadoresBolsa\Kitos.Bolsa.Informes\obj\Release\Kitos.Bolsa.Informes.csproj.GenerateResource.Cache
+C:\Aplicaciones\Prueba\IndicadoresBolsa\Kitos.Bolsa.Informes\obj\Release\Kitos.Bolsa.Informes.dll
+C:\Aplicaciones\Prueba\IndicadoresBolsa\Kitos.Bolsa.Informes\obj\Release\Kitos.Bolsa.Informes.pdb
+C:\Aplicaciones\Prueba\IndicadoresBolsa V2\Kitos.Bolsa.Informes\bin\Debug\Kitos.Bolsa.Informes.dll
+C:\Aplicaciones\Prueba\IndicadoresBolsa V2\Kitos.Bolsa.Informes\bin\Debug\Kitos.Bolsa.Informes.pdb
+C:\Aplicaciones\Prueba\IndicadoresBolsa V2\Kitos.Bolsa.Informes\bin\Debug\Kitos.Bolsa.ObjetosBolsa.dll
+C:\Aplicaciones\Prueba\IndicadoresBolsa V2\Kitos.Bolsa.Informes\bin\Debug\Kitos.Bolsa.ObjetosBolsa.pdb
+C:\Aplicaciones\Prueba\IndicadoresBolsa V2\Kitos.Bolsa.Informes\obj\Debug\ResolveAssemblyReference.cache
+C:\Aplicaciones\Prueba\IndicadoresBolsa V2\Kitos.Bolsa.Informes\obj\Debug\Kitos.Bolsa.Informes.RUTAS.resources
+C:\Aplicaciones\Prueba\IndicadoresBolsa V2\Kitos.Bolsa.Informes\obj\Debug\Kitos.Bolsa.Informes.csproj.GenerateResource.Cache
+C:\Aplicaciones\Prueba\IndicadoresBolsa V2\Kitos.Bolsa.Informes\obj\Debug\Kitos.Bolsa.Informes.dll
+C:\Aplicaciones\Prueba\IndicadoresBolsa V2\Kitos.Bolsa.Informes\obj\Debug\Kitos.Bolsa.Informes.pdb

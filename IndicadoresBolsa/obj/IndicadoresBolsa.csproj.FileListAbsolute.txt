@@ -1,0 +1,36 @@
+C:\Aplicaciones\IndicadoresBolsa\IndicadoresBolsa\obj\Debug\ResolveAssemblyReference.cache
+C:\Aplicaciones\IndicadoresBolsa\IndicadoresBolsa\bin\Debug\IndicadoresBolsa.exe
+C:\Aplicaciones\IndicadoresBolsa\IndicadoresBolsa\bin\Debug\IndicadoresBolsa.pdb
+C:\Aplicaciones\IndicadoresBolsa\IndicadoresBolsa\bin\Debug\Kitos.Bolsa.Informes.dll
+C:\Aplicaciones\IndicadoresBolsa\IndicadoresBolsa\bin\Debug\Kitos.Bolsa.ObjetosBolsa.dll
+C:\Aplicaciones\IndicadoresBolsa\IndicadoresBolsa\bin\Debug\Kitos.Bolsa.Informes.pdb
+C:\Aplicaciones\IndicadoresBolsa\IndicadoresBolsa\bin\Debug\Kitos.Bolsa.ObjetosBolsa.pdb
+C:\Aplicaciones\IndicadoresBolsa\IndicadoresBolsa\obj\Debug\IndicadoresBolsa.exe
+C:\Aplicaciones\IndicadoresBolsa\IndicadoresBolsa\obj\Debug\IndicadoresBolsa.pdb
+C:\Aplicaciones\Prueba\IndicadoresBolsa\IndicadoresBolsa\obj\Debug\IndicadoresBolsa.exe
+C:\Aplicaciones\Prueba\IndicadoresBolsa\IndicadoresBolsa\obj\Debug\IndicadoresBolsa.pdb
+C:\Aplicaciones\Prueba\IndicadoresBolsa\IndicadoresBolsa\bin\Debug\IndicadoresBolsa.exe
+C:\Aplicaciones\Prueba\IndicadoresBolsa\IndicadoresBolsa\bin\Debug\IndicadoresBolsa.pdb
+C:\Aplicaciones\Prueba\IndicadoresBolsa\IndicadoresBolsa\bin\Debug\Kitos.Bolsa.Informes.dll
+C:\Aplicaciones\Prueba\IndicadoresBolsa\IndicadoresBolsa\bin\Debug\Kitos.Bolsa.ObjetosBolsa.dll
+C:\Aplicaciones\Prueba\IndicadoresBolsa\IndicadoresBolsa\bin\Debug\Kitos.Bolsa.Informes.pdb
+C:\Aplicaciones\Prueba\IndicadoresBolsa\IndicadoresBolsa\bin\Debug\Kitos.Bolsa.ObjetosBolsa.pdb
+C:\Aplicaciones\Prueba\IndicadoresBolsa\IndicadoresBolsa\obj\Debug\ResolveAssemblyReference.cache
+C:\Aplicaciones\Prueba\IndicadoresBolsa\IndicadoresBolsa\bin\Release\IndicadoresBolsa.exe
+C:\Aplicaciones\Prueba\IndicadoresBolsa\IndicadoresBolsa\bin\Release\IndicadoresBolsa.pdb
+C:\Aplicaciones\Prueba\IndicadoresBolsa\IndicadoresBolsa\bin\Release\Kitos.Bolsa.Informes.dll
+C:\Aplicaciones\Prueba\IndicadoresBolsa\IndicadoresBolsa\bin\Release\Kitos.Bolsa.ObjetosBolsa.dll
+C:\Aplicaciones\Prueba\IndicadoresBolsa\IndicadoresBolsa\bin\Release\Kitos.Bolsa.Informes.pdb
+C:\Aplicaciones\Prueba\IndicadoresBolsa\IndicadoresBolsa\bin\Release\Kitos.Bolsa.ObjetosBolsa.pdb
+C:\Aplicaciones\Prueba\IndicadoresBolsa\IndicadoresBolsa\obj\Release\ResolveAssemblyReference.cache
+C:\Aplicaciones\Prueba\IndicadoresBolsa\IndicadoresBolsa\obj\Release\IndicadoresBolsa.exe
+C:\Aplicaciones\Prueba\IndicadoresBolsa\IndicadoresBolsa\obj\Release\IndicadoresBolsa.pdb
+C:\Aplicaciones\Prueba\IndicadoresBolsa V2\IndicadoresBolsa\obj\Debug\IndicadoresBolsa.exe
+C:\Aplicaciones\Prueba\IndicadoresBolsa V2\IndicadoresBolsa\obj\Debug\IndicadoresBolsa.pdb
+C:\Aplicaciones\Prueba\IndicadoresBolsa V2\IndicadoresBolsa\bin\Debug\IndicadoresBolsa.exe
+C:\Aplicaciones\Prueba\IndicadoresBolsa V2\IndicadoresBolsa\bin\Debug\IndicadoresBolsa.pdb
+C:\Aplicaciones\Prueba\IndicadoresBolsa V2\IndicadoresBolsa\bin\Debug\Kitos.Bolsa.Informes.dll
+C:\Aplicaciones\Prueba\IndicadoresBolsa V2\IndicadoresBolsa\bin\Debug\Kitos.Bolsa.ObjetosBolsa.dll
+C:\Aplicaciones\Prueba\IndicadoresBolsa V2\IndicadoresBolsa\bin\Debug\Kitos.Bolsa.Informes.pdb
+C:\Aplicaciones\Prueba\IndicadoresBolsa V2\IndicadoresBolsa\bin\Debug\Kitos.Bolsa.ObjetosBolsa.pdb
+C:\Aplicaciones\Prueba\IndicadoresBolsa V2\IndicadoresBolsa\obj\Debug\ResolveAssemblyReference.cache

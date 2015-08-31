@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IndicadoresBolsa", "IndicadoresBolsa.csproj", "{D402EF7A-3E7C-4E40-923A-791C2008F4F6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kitos.Bolsa.Informes", "..\Kitos.Bolsa.Informes\Kitos.Bolsa.Informes.csproj", "{F50C9B16-8E03-4437-84F3-B4E86AF965F2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kitos.Bolsa.Objetos", "..\Kitos.Bolsa.ObjetosBolsa\Kitos.Bolsa.Objetos.csproj", "{BFB0D14B-DD19-4BF6-9337-E945E610D3A9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D402EF7A-3E7C-4E40-923A-791C2008F4F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D402EF7A-3E7C-4E40-923A-791C2008F4F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D402EF7A-3E7C-4E40-923A-791C2008F4F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D402EF7A-3E7C-4E40-923A-791C2008F4F6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F50C9B16-8E03-4437-84F3-B4E86AF965F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F50C9B16-8E03-4437-84F3-B4E86AF965F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F50C9B16-8E03-4437-84F3-B4E86AF965F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F50C9B16-8E03-4437-84F3-B4E86AF965F2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BFB0D14B-DD19-4BF6-9337-E945E610D3A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BFB0D14B-DD19-4BF6-9337-E945E610D3A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BFB0D14B-DD19-4BF6-9337-E945E610D3A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BFB0D14B-DD19-4BF6-9337-E945E610D3A9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
